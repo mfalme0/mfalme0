@@ -12,7 +12,7 @@
 
 ## 🚀 What I Do
 
-```javascript
+```typescript
 const myRole = {
     title: "Head of IT",
     responsibilities: ["Strategic Planning", "Team Leadership", "Infrastructure", "Innovation"],
@@ -46,9 +46,9 @@ const myRole = {
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=888888&text_color=c9d1d9)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=888888&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfalme0&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=ffffff&text_color=c9d1d9)
 
 </div>
 
@@ -65,10 +65,10 @@ const myRole = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephgitauc)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joemfalme001)
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://gitau.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph.gitau.c@gmail.com)
 
 </div>
 
@@ -82,7 +82,7 @@ const myRole = {
 
 ### 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=gray&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=mfalme0&color=gray&style=for-the-badge)
 
 </div>
 
@@ -92,6 +92,6 @@ const myRole = {
 
 *"In a world full of bugs, be the debugger."* 🐛🔍
 
-**⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)**
+**⭐️ From [YOUR_USERNAME](https://github.com/mfalme0)**
 
 </div>
