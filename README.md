@@ -1,320 +1,101 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# Hey there! 👋 I'm Joseph Gitau
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #f5f7fa 0%, #e8eef3 100%);
-            min-height: 100vh;
-            padding: 40px 20px;
-            color: #2d3748;
-        }
+<div align="center">
+  
+### 🎯 Head of IT | Tech Leader | Problem Solver
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-        }
+*Turning coffee into infrastructure and bugs into features since [year]*
 
-        .glass {
-            background: rgba(255, 255, 255, 0.7);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            border-radius: 20px;
-            border: 1px solid rgba(255, 255, 255, 0.8);
-            box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
-            padding: 40px;
-            margin-bottom: 30px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
+</div>
 
-        .glass:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.2);
-        }
+---
 
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+## 🚀 What I Do
 
-        .header h1 {
-            font-size: 3em;
-            font-weight: 700;
-            color: #1a202c;
-            margin-bottom: 10px;
-        }
-
-        .header .emoji {
-            display: inline-block;
-            animation: wave 2s infinite;
-        }
-
-        @keyframes wave {
-            0%, 100% { transform: rotate(0deg); }
-            25% { transform: rotate(20deg); }
-            75% { transform: rotate(-20deg); }
-        }
-
-        .subtitle {
-            font-size: 1.3em;
-            color: #4a5568;
-            font-weight: 500;
-            margin-bottom: 10px;
-        }
-
-        .tagline {
-            font-style: italic;
-            color: #718096;
-            font-size: 1em;
-        }
-
-        .section-title {
-            font-size: 1.8em;
-            font-weight: 600;
-            color: #2d3748;
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .code-block {
-            background: rgba(45, 55, 72, 0.05);
-            border-radius: 12px;
-            padding: 20px;
-            font-family: 'Courier New', monospace;
-            color: #2d3748;
-            border: 1px solid rgba(203, 213, 224, 0.5);
-            margin-bottom: 20px;
-        }
-
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 15px;
-            justify-content: center;
-        }
-
-        .tech-badge {
-            background: rgba(255, 255, 255, 0.6);
-            backdrop-filter: blur(5px);
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-weight: 500;
-            color: #2d3748;
-            border: 1px solid rgba(226, 232, 240, 0.8);
-            transition: all 0.3s ease;
-        }
-
-        .tech-badge:hover {
-            background: rgba(255, 255, 255, 0.9);
-            transform: scale(1.05);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-        }
-
-        .quest-list {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .quest-list li {
-            padding: 12px 0;
-            font-size: 1.1em;
-            color: #4a5568;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .quote-box {
-            background: rgba(255, 255, 255, 0.5);
-            backdrop-filter: blur(8px);
-            border-left: 4px solid #cbd5e0;
-            padding: 20px;
-            border-radius: 8px;
-            font-style: italic;
-            color: #4a5568;
-            margin: 20px 0;
-        }
-
-        .philosophy-list {
-            list-style: none;
-            padding-left: 0;
-        }
-
-        .philosophy-list li {
-            padding: 10px 0;
-            font-size: 1.05em;
-            color: #4a5568;
-            display: flex;
-            align-items: flex-start;
-            gap: 10px;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-        }
-
-        .social-btn {
-            background: rgba(255, 255, 255, 0.7);
-            backdrop-filter: blur(5px);
-            padding: 12px 24px;
-            border-radius: 30px;
-            text-decoration: none;
-            color: #2d3748;
-            font-weight: 500;
-            border: 1px solid rgba(226, 232, 240, 0.8);
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .social-btn:hover {
-            background: rgba(255, 255, 255, 0.95);
-            transform: translateY(-3px);
-            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-        }
-
-        .footer {
-            text-align: center;
-            padding: 30px;
-            color: #718096;
-            font-style: italic;
-        }
-
-        .stats-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .stat-card {
-            background: rgba(255, 255, 255, 0.5);
-            backdrop-filter: blur(8px);
-            border-radius: 15px;
-            padding: 20px;
-            text-align: center;
-            border: 1px solid rgba(226, 232, 240, 0.8);
-        }
-
-        .stat-number {
-            font-size: 2.5em;
-            font-weight: 700;
-            color: #2d3748;
-        }
-
-        .stat-label {
-            color: #718096;
-            font-size: 0.9em;
-            margin-top: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="glass">
-            <div class="header">
-                <h1>Hey there! <span class="emoji">👋</span> I'm [Your Name]</h1>
-                <div class="subtitle">🎯 Head of IT | Tech Leader | Problem Solver</div>
-                <div class="tagline">Turning coffee into infrastructure and bugs into features since [year]</div>
-            </div>
-        </div>
-
-        <div class="glass">
-            <h2 class="section-title">🚀 What I Do</h2>
-            <div class="code-block">
-const myRole = {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;title: "Head of IT",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;responsibilities: ["Strategic Planning", "Team Leadership", "Infrastructure", "Innovation"],<br>
-&nbsp;&nbsp;&nbsp;&nbsp;dailyDrive: "Making tech work so others don't have to think about it",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;superpower: "Explaining technical stuff to non-technical humans 🎭"<br>
+```typescript
+const myRole = {
+    title: "Head of IT",
+    responsibilities: ["Strategic Planning", "Team Leadership", "Infrastructure", "Innovation"],
+    dailyDrive: "Making tech work so others don't have to think about it",
+    superpower: "Explaining technical stuff to non-technical humans 🎭"
 };
-            </div>
-        </div>
+```
 
-        <div class="glass">
-            <h2 class="section-title">💻 Tech Stack</h2>
-            <div class="tech-stack">
-                <div class="tech-badge">Python</div>
-                <div class="tech-badge">JavaScript</div>
-                <div class="tech-badge">Docker</div>
-                <div class="tech-badge">Kubernetes</div>
-                <div class="tech-badge">AWS</div>
-                <div class="tech-badge">Linux</div>
-                <div class="tech-badge">React</div>
-                <div class="tech-badge">Node.js</div>
-            </div>
-        </div>
+## 💻 Tech Stack
 
-        <div class="glass">
-            <h2 class="section-title">🎮 Current Quests</h2>
-            <ul class="quest-list">
-                <li>🏗️ Building scalable infrastructure that doesn't wake me up at 3am</li>
-                <li>🧙‍♂️ Mentoring the next generation of tech wizards</li>
-                <li>🔐 Making security actually user-friendly (yes, it's possible!)</li>
-                <li>📚 Learning [new tech/skill you're exploring]</li>
-                <li>☕ Perfecting my coffee-to-code ratio</li>
-            </ul>
-        </div>
+<div align="center">
 
-        <div class="glass">
-            <h2 class="section-title">📊 GitHub Stats</h2>
-            <div class="stats-container">
-                <div class="stat-card">
-                    <div class="stat-number">500+</div>
-                    <div class="stat-label">Commits This Year</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">50+</div>
-                    <div class="stat-label">Repositories</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">15+</div>
-                    <div class="stat-label">Languages Used</div>
-                </div>
-            </div>
-        </div>
+![Python](https://img.shields.io/badge/-Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Docker](https://img.shields.io/badge/-Docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/-AWS-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
+![Linux](https://img.shields.io/badge/-Linux-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624)
+![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933)
 
-        <div class="glass">
-            <h2 class="section-title">🎯 Leadership Philosophy</h2>
-            <div class="quote-box">
-                "The best IT is invisible IT. Also, always have backups. And backups of your backups."
-            </div>
-            <ul class="philosophy-list">
-                <li>🤝 People over processes (but good processes help people)</li>
-                <li>🚀 Automation is love, automation is life</li>
-                <li>💡 If it's not documented, it doesn't exist</li>
-                <li>🎪 Make work fun, because life's too short for boring code</li>
-            </ul>
-        </div>
+</div>
 
-        <div class="glass">
-            <h2 class="section-title">🌐 Let's Connect!</h2>
-            <div class="social-links">
-                <a href="https://linkedin.com/in/YOUR_PROFILE" class="social-btn">💼 LinkedIn</a>
-                <a href="https://twitter.com/YOUR_HANDLE" class="social-btn">🐦 Twitter</a>
-                <a href="https://yourwebsite.com" class="social-btn">🌐 Website</a>
-                <a href="mailto:your.email@example.com" class="social-btn">📧 Email</a>
-            </div>
-        </div>
+## 🎮 Current Quests
 
-        <div class="footer">
-            <p>"In a world full of bugs, be the debugger." 🐛🔍</p>
-        </div>
-    </div>
-</body>
-</html>
+- 🏗️ Building scalable infrastructure that doesn't wake me up at 3am
+- 🧙‍♂️ Mentoring the next generation of tech wizards
+- 🔐 Making security actually user-friendly (yes, it's possible!)
+- 📚 Learning [new tech/skill you're exploring]
+- ☕ Perfecting my coffee-to-code ratio
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&icon_color=718096&text_color=4a5568&border_radius=15)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfalme0&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2d3748&text_color=4a5568&border_radius=15)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mfalme0&theme=default&hide_border=true&background=ffffff&stroke=e2e8f0&ring=cbd5e0&fire=718096&currStreakNum=2d3748&sideNums=2d3748&currStreakLabel=4a5568&sideLabels=4a5568&dates=718096&border_radius=15)
+
+</div>
+
+## 🎯 Leadership Philosophy
+
+> *"The best IT is invisible IT. Also, always have backups. And backups of your backups."*
+
+- 🤝 People over processes (but good processes help people)
+- 🚀 Automation is love, automation is life
+- 💡 If it's not documented, it doesn't exist
+- 🎪 Make work fun, because life's too short for boring code
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/YOUR_HANDLE)
+[![Website](https://img.shields.io/badge/-Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=4285F4)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
+
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=mfalme0&color=lightgrey&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+*"In a world full of bugs, be the debugger."* 🐛🔍
+
+** From [mfalme0](https://github.com/mfalme0)**
+
+</div>
