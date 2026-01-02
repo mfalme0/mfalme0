@@ -69,10 +69,10 @@ const myRole = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/YOUR_HANDLE)
-[![Website](https://img.shields.io/badge/-Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=4285F4)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/josephgitauc/)
+[![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/@joemfalme001)
+[![Website](https://img.shields.io/badge/-Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=4285F4)](https://gitau.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-ffffff?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:joseph.gitau.c@gmail.com)
 
 </div>
 
