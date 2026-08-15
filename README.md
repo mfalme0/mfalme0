@@ -118,9 +118,9 @@ DSA · DBMS · Network Security · Operating Systems · Computer Architecture
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephgitau&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephgitau&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mflame0&layout=compact&theme=default&hide_border=true)
 
 </div>
 
