@@ -1,234 +1,203 @@
-<!-- Header -->
-
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════╗
-║  joseph gitau chege                                ║
-║  software engineering · infrastructure · systems   ║
-║  nairobi, kenya                                    ║
-╚════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a2a4a&height=140&section=header&text=FIELD%20REPORT&fontColor=ebe9df&fontSize=42&fontAlignY=55&desc=JOSEPH%20GITAU%20CHEGE%20—%20NAIROBI,%20KE&descAlignY=80&descSize=16&descColor=e85d3a" width="100%"/>
 
-[![Email](https://img.shields.io/badge/joseph.gitau.c%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:joseph.gitau.c@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/joseph-gitau)
-[![Portfolio](https://img.shields.io/badge/gitau.vercel.app-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://gitau.vercel.app)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2600&pause=900&color=E85D3A&background=0A2A4A00&center=true&vCenter=true&width=560&lines=SYSTEMS+THINKER+WHO+SHIPS.;BUILD+IT.+AUTOMATE+IT.+OBSERVE+IT.+DOCUMENT+IT.;STATUS%3A+OPEN+TO+DEPLOYMENT." alt="typing-svg" />
+
+<br/>
+
+`FILE No. JGC-2026` &nbsp;·&nbsp; `CLASSIFICATION: PUBLIC` &nbsp;·&nbsp; `STATUS: ACTIVE — SEEKING DEPLOYMENT`
+
+<br/>
+
+[![Email](https://img.shields.io/badge/joseph.gitau.c%40gmail.com-0a2a4a?style=flat-square&logo=gmail&logoColor=ebe9df)](mailto:joseph.gitau.c@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a2a4a?style=flat-square&logo=linkedin&logoColor=ebe9df)](https://linkedin.com/in/joseph-gitau)
+[![Portfolio](https://img.shields.io/badge/gitau.vercel.app-e85d3a?style=flat-square&logo=vercel&logoColor=ebe9df)](https://gitau.vercel.app)
+[![GitHub](https://img.shields.io/badge/mfalme0-0a2a4a?style=flat-square&logo=github&logoColor=ebe9df)](https://github.com/mfalme0)
 
 </div>
 
----
+<br/>
 
-```yaml
-name: Joseph Gitau Chege
-title: "Full Stack Engineer · Infrastructure & Platform Engineer"
-focus:
-  - Backend & distributed systems
-  - Infrastructure & platform engineering
-  - Identity, authentication & real-time systems
-  - Cloud, DevOps & reliability
-  - Automation & AI-enabled engineering
-currently: Open to new opportunities — full stack, infrastructure & platform engineering roles
-philosophy: "Build it. Automate it. Observe it. Document it."
-vibe: "Systems thinker who ships"
+```
+┌──────────────────────────────────────────────────────────┐
+│  SEC.00 — SUBJECT DOSSIER                                 │
+├──────────────────────────────────────────────────────────┤
+│  NAME ......... Joseph Gitau Chege                        │
+│  ROLE .......... Full Stack Engineer · Infra & Platform   │
+│  BASE .......... Nairobi, Kenya                           │
+│  FOCUS ......... Backend · Infra · Identity · AI-enabled  │
+│                    engineering                             │
+│  STATUS ........ Open to new opportunities                │
+└──────────────────────────────────────────────────────────┘
 ```
 
----
+<br/>
 
-## What I do
+## `SEC.01` WHAT I DO
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-I build and operate systems across the entire stack — from backend services and databases to Linux servers, networks, cloud infrastructure, security, and the people running them.
+I build and operate systems across the entire stack — backend services, databases, Linux servers, networks, cloud infrastructure, security, and the people running them. My sweet spot is where **software engineering meets infrastructure**.
 
-My sweet spot is where **software engineering meets infrastructure**.
+| MODULE | SPEC |
+|:--|:--|
+| `[SOFTWARE]` | Backend APIs · Full-stack systems · Distributed services · Real-time apps · DB architecture · Auth |
+| `[PLATFORM]` | Linux · Azure · Docker · Kubernetes · On-prem infra · Storage · CI/CD · Infra automation |
+| `[IDENTITY]` | Password & biometric auth · Session mgmt · Push/in-app notifications · Presence & read receipts |
+| `[RELIABILITY]` | Monitoring · Incident response · Health checks · Backup/recovery · Capacity planning |
+| `[NETWORK/SEC]` | LAN/WAN · VLANs · Firewalls · Wi-Fi · Structured cabling · Access control |
+| `[BUSINESS SYS]` | Microsoft Dynamics 365 Business Central (AL) · Power BI · Power Automate · ERP integrations |
+| `[AI/ML]` | TensorFlow · PyTorch · LLM/prompt engineering · MLOps · Local LLMs (Ollama) · AI coding agents |
+| `[LEADERSHIP]` | Engineering direction · Technical architecture · Cross-functional teams · IT strategy |
 
-| Area                          | The deal                                                                                                                                |
-| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Software Engineering**      | Backend APIs · Full-stack systems · Distributed services · Real-time applications · Database architecture · Authentication              |
-| **Platform & Infrastructure** | Linux · Azure · Docker · Kubernetes · On-prem infrastructure · Storage · CI/CD · Infrastructure automation                              |
-| **Identity & Communication**  | Password & biometric authentication · Session management · Push & in-app notifications · Real-time messaging · Presence & read receipts |
-| **Reliability & Operations**  | Monitoring · Incident response · Health checks · Backup & recovery · Capacity planning · Production debugging · Technical documentation |
-| **Networking & Security**     | LAN/WAN · VLANs · Firewalls · Wi-Fi · Structured cabling · Access control · Security processes · Network troubleshooting                |
-| **Business Systems**          | Microsoft Dynamics 365 Business Central (AL) · Power BI · Power Automate · ERP integrations                                              |
-| **AI & ML**                   | TensorFlow · PyTorch · LLM/prompt engineering · MLOps · Local LLMs (Ollama) · AI coding agents                                            |
-| **Leadership**                | Engineering direction · Technical architecture · Cross-functional teams · IT strategy · Systems ownership · Stakeholder management      |
+<br/>
 
----
+## `SEC.02` SERVICE RECORD
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-## Where I've been
+### `LOG 01` — Engineering Team Lead & Head of IT · Steadfast Academy
+**`APR 2025 — SEP 2026`** &nbsp;|&nbsp; Nairobi, Kenya
 
-### Engineering Team Lead & Head of IT — Steadfast Academy
+Led the technology function across **software engineering, AI, robotics, and educational technology** for four engineering teams — hands-on with architecture, infrastructure, backend systems, networking, and production ops.
 
-*Apr 2025 – Sep 2026 · Nairobi, Kenya*
+<details>
+<summary><code>▸ EXPAND FIELD NOTES</code></summary>
 
-Led the technology function across **software engineering, AI, robotics, and educational technology** for four engineering teams, while remaining hands-on with architecture, infrastructure, backend systems, networking, and production operations.
+<br/>
 
-#### Software & Platform Engineering
+**Software & Platform**
+- Architected a full-stack institutional **ERP** from greenfield to production — student records, attendance, finance, communication, notifications, auth, admin workflows.
+- Built a real-time communication subsystem: presence, delivery states, read receipts, live updates.
+- Implemented password + biometric authentication for institutional users.
+- Designed notification infra for real-time in-app & push across web and mobile.
+- Built an internal **Flutter admin app**; contributed to the iOS/mobile parent app connecting to the ERP.
+- Built integrations, reports, and extensions on **Microsoft Dynamics 365 Business Central (AL)**, incl. connecting BC to the in-house ERP, plus Power BI / Power Automate workflows.
 
-* Architected and drove development of a **full-stack institutional ERP** from greenfield development into production.
-* Built systems covering **student records, attendance, finance, communication, notifications, authentication, and administrative workflows**.
-* Designed REST APIs, database schemas, service integrations, authentication flows, and real-time application features.
-* Built a real-time communication subsystem with **presence, delivery states, read receipts, and live updates**.
-* Implemented **password and biometric authentication** for institutional users.
-* Designed notification infrastructure supporting **real-time in-app and push notifications** across web and mobile workflows.
-* Built integrations and workflows around **school finance, fee billing, uniform billing, and banking processes**.
-* Built an internal **Flutter admin app** and contributed to an **iOS/mobile parent app** connecting to the in-house ERP.
-* Built integrations, reports, and extensions on **Microsoft Dynamics 365 Business Central (AL)**, including connecting BC with the in-house ERP, plus Power BI and Power Automate workflows.
+**Infrastructure & Cloud**
+- Operated Ubuntu/Debian production infra across cloud and on-prem.
+- Containerised workloads with Docker and Kubernetes; managed Azure deployments, storage, networking, backups.
+- Built and maintained **10TB+ TrueNAS** storage with redundancy and recovery planning.
+- Designed institutional network infra — switching, VLANs, Wi-Fi, firewalls, structured cabling.
 
-#### Infrastructure & Cloud
+**Reliability & Automation**
+- Maintained ~**99.9%** service availability.
+- Cut deployment errors **45%** through automation.
+- Reclaimed **15+ hrs/week** via operational automation.
+- Cut cloud spend ~**20%**, internet downtime ~**50%**.
 
-* Designed and operated Ubuntu/Debian production infrastructure across **cloud and on-prem environments**.
-* Containerised workloads using **Docker and Kubernetes**.
-* Managed Azure infrastructure, deployments, storage, networking, backups, and production services.
-* Built and maintained **10TB+ TrueNAS storage infrastructure** with redundancy, backup, and recovery considerations.
-* Designed institutional network infrastructure including **switching, VLANs, Wi-Fi, firewalls, structured cabling, and internet connectivity**.
-* Worked across multiple network and infrastructure vendors to improve reliability, coverage, and operational visibility.
+**Leadership**
+- Primary technical bridge between engineering, leadership, and institutional stakeholders.
+- Set technical standards; gated releases; led the shift to documented, observable systems.
 
-#### Reliability & Automation
+</details>
 
-* Maintained approximately **99.9% service availability** through proactive monitoring, maintenance, incident response, and operational processes.
-* Reduced deployment errors by **45%** through automation and improved deployment workflows.
-* Automated repetitive operational tasks, reclaiming **15+ hours per week**.
-* Reduced cloud expenditure by approximately **20%** through infrastructure optimisation.
-* Reduced internet downtime by approximately **50%** through improved network architecture and ISP escalation processes.
-* Built monitoring, health-check, backup, and recovery processes for production infrastructure.
-* Created technical documentation and SOPs to turn operational knowledge into repeatable processes.
+<br/>
 
-#### Leadership
+### `LOG 02` — Software Consultant (Solo Developer) · Gituamba Girls School
+**`JAN 2024 — MAR 2025`** &nbsp;|&nbsp; Kenya
 
-* Led technical planning and prioritisation across multiple engineering and technology teams.
-* Acted as the primary technical bridge between engineering teams, leadership, and institutional stakeholders.
-* Established technical standards, reviewed implementations, and gated technology work before production release.
-* Owned technology decisions spanning **software, infrastructure, networking, security, cloud, hardware, and operations**.
-* Led the transition from ad-hoc IT operations toward documented, observable, and maintainable systems.
+<details>
+<summary><code>▸ EXPAND FIELD NOTES</code></summary>
 
----
+<br/>
 
-### Software Consultant (Solo Developer) — Gituamba Girls School
+- Designed and built a full-stack school management platform — student records, finance, attendance, academic workflows.
+- Designed RESTful APIs and relational schemas using **C#, Python, PostgreSQL, MySQL**.
+- Built integrations, reports, and extensions on **Microsoft Dynamics 365 Business Central (AL)**.
+- Automated repetitive admin workflows; managed end-to-end deployment and infra.
+- Worked directly with non-technical stakeholders to translate problems into software.
 
-*Jan 2024 – Mar 2025 · Kenya*
+</details>
 
-* Designed and developed a full-stack school management platform covering **student records, finance, attendance, and academic workflows**.
-* Designed RESTful APIs and relational database schemas using **C#, Python, PostgreSQL, and MySQL**.
-* Built integrations, reports, and extensions on **Microsoft Dynamics 365 Business Central (AL)**.
-* Automated repetitive administrative workflows and reduced manual operational work.
-* Managed end-to-end deployment, maintenance, debugging, and infrastructure.
-* Worked directly with non-technical stakeholders to translate operational problems into software systems.
+<br/>
 
----
+### `LOG 03` — Software Engineering Intern · VisionFund Kenya
+**`OCT 2023 — DEC 2023`** &nbsp;|&nbsp; Kenya
 
-### Software Engineering Intern — VisionFund Kenya
+<details>
+<summary><code>▸ EXPAND FIELD NOTES</code></summary>
 
-*Oct 2023 – Dec 2023 · Kenya*
+<br/>
 
-* Worked on internal software and automation within a microfinance / financial-services environment.
-* Developed backend and automation functionality using **C#, Node.js, and Java/Spring Boot**.
-* Worked with MySQL databases, query optimisation, and production application maintenance.
-* Supported systems operating in a high-accountability environment where reliability, traceability, and careful changes mattered.
+- Worked on internal software and automation in a microfinance environment.
+- Built backend/automation functionality with **C#, Node.js, Java/Spring Boot**.
+- Worked with MySQL databases, query optimisation, production maintenance in a high-accountability setting.
 
----
+</details>
 
-## Things I've shipped
+<br/>
 
-| Project                                | What it is                                                                                                                               |
-| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Institutional ERP**                  | Full-stack ERP covering student records, attendance, finance, communication, notifications, authentication, and administrative workflows |
-| **Notification Infrastructure**        | Real-time notification infrastructure supporting in-app and push communication across institutional applications                         |
-| **Identity & Authentication Platform** | Password authentication, biometric authentication, account lifecycle, and access-control workflows                                       |
-| **Real-Time Communication System**     | Chat, presence, delivery states, read receipts, and live updates integrated into the institutional platform                              |
-| **School Finance Systems**             | Custom fee billing and financial workflows with banking/institutional integrations                                                       |
-| **Flutter Admin App**                  | Internal admin application for institutional operations, built with Flutter                                                               |
-| **BetterFarm**                         | AgriTech platform with cloud-hosted services, real-time data, and backend infrastructure                                                 |
-| **Infrastructure Platform**            | Linux servers, Docker/Kubernetes, Azure, TrueNAS, backups, monitoring, networking, and production operations                             |
-| **Automation Tooling**                 | Bash, Python, CI/CD, monitoring, and operational automation reducing repetitive engineering work                                         |
+## `SEC.03` FIELD-TESTED
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
----
+| ARTIFACT | DESCRIPTION |
+|:--|:--|
+| **Institutional ERP** | Full-stack ERP — student records, attendance, finance, comms, notifications, auth, admin |
+| **Notification Infra** | Real-time in-app + push notification infrastructure |
+| **Identity Platform** | Password + biometric auth, account lifecycle, access control |
+| **Real-Time Comms** | Chat, presence, delivery states, read receipts, live updates |
+| **School Finance Systems** | Custom fee billing + financial workflows with banking integrations |
+| **Flutter Admin App** | Internal admin application for institutional operations |
+| **BetterFarm** | AgriTech platform — cloud-hosted services, real-time data, backend infra |
+| **Infrastructure Platform** | Linux, Docker/Kubernetes, Azure, TrueNAS, backups, monitoring |
+| **Automation Tooling** | Bash/Python/CI-CD automation reducing repetitive engineering work |
 
-## Current engineering interests
+<br/>
 
-I'm particularly interested in problems where **scale, reliability, and systems design** matter.
+## `SEC.04` CURRENT COORDINATES
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-```text
-distributed systems
-       │
-       ├── APIs & services
-       ├── queues & event-driven architecture
-       ├── real-time communication
-       ├── identity & authentication
-       ├── notification delivery
-       │
-       ▼
-platform engineering
-       │
-       ├── containers
-       ├── Kubernetes
-       ├── Linux
-       ├── cloud infrastructure
-       ├── observability
-       └── automation
-       │
-       ▼
-systems thinking
-       │
-       ├── reliability
-       ├── security
-       ├── capacity planning
-       ├── infrastructure
-       └── technical leadership
+```
+distributed systems ──▶ platform engineering ──▶ systems thinking
+      │                        │                        │
+  APIs & services          containers               reliability
+  event-driven arch        Kubernetes                security
+  real-time comms          Linux / cloud             capacity planning
+  identity & auth          observability             infrastructure
+  notification delivery    automation                tech leadership
 ```
 
-I'm also increasingly interested in **AI-assisted software engineering, local AI infrastructure, developer tooling, and agentic systems** — particularly where AI can be integrated into real engineering workflows rather than treated as a standalone chatbot.
+Increasingly drawn to **AI-assisted software engineering, local AI infrastructure, developer tooling, and agentic systems** — where AI plugs into real engineering workflows, not just chat.
 
----
+<br/>
 
-## Tech toolbox
+## `SEC.05` LOADOUT
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-| Category            | Stack                                                                                                     |
-| -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Languages**        | C# · Python · JavaScript · TypeScript · Java · C++ · Bash · Kotlin                                        |
-| **Backend**          | REST APIs · Spring Boot · .NET · Node.js/Express · NestJS · API design · Authentication · Real-time systems |
-| **Frontend**         | React · Next.js · Angular · Vue · Nuxt · TypeScript · Modern web applications                             |
-| **Mobile**           | Flutter                                                                                                    |
-| **Databases**        | PostgreSQL · MySQL · MongoDB · Firebase · Schema design · Query optimisation                              |
-| **Cloud**            | Azure · GCP                                                                                                |
-| **Infrastructure**   | Linux · Ubuntu · Debian · Docker · Kubernetes · Proxmox · TrueNAS                                          |
-| **DevOps**           | Git · CI/CD (GitHub Actions) · Bash automation · Containerisation · Monitoring · Deployment automation    |
-| **Networking**       | LAN/WAN · VLANs · Routing · Switching · Wi-Fi · Firewalls · Structured cabling                            |
-| **Security**         | Authentication · Access control · Network security · Backup/recovery · Security processes                 |
-| **Business Systems** | Microsoft Dynamics 365 Business Central (AL) · Power BI · Power Automate · ERPNext                        |
-| **AI & Automation**  | TensorFlow · PyTorch · LLM/prompt engineering · MLOps · Local LLMs · Ollama · AI coding agents · Python automation |
-| **Other**            | PHP · Laravel                                                                                              |
-| **Tools**            | GitHub · VS Code · OpenCode · Claude Code · G-Helper · Home Assistant                                     |
+| CATEGORY | STACK |
+|:--|:--|
+| **Languages** | `C#` `Python` `JavaScript` `TypeScript` `Java` `C++` `Bash` `Kotlin` |
+| **Backend** | `Spring Boot` `.NET` `Node.js` `Express` `NestJS` REST APIs · Auth · Real-time systems |
+| **Frontend** | `React` `Next.js` `Angular` `Vue` `Nuxt` `TypeScript` |
+| **Mobile** | `Flutter` |
+| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Firebase` |
+| **Cloud** | `Azure` `GCP` |
+| **Infrastructure** | `Linux` `Ubuntu` `Debian` `Docker` `Kubernetes` `Proxmox` `TrueNAS` |
+| **DevOps** | `Git` `GitHub Actions` Bash automation · Monitoring |
+| **Networking** | LAN/WAN · VLANs · Routing · Switching · Wi-Fi · Firewalls |
+| **Business Systems** | `Dynamics 365 BC (AL)` `Power BI` `Power Automate` `ERPNext` |
+| **AI & Automation** | `TensorFlow` `PyTorch` LLM/prompt engineering · MLOps · `Ollama` · AI coding agents |
+| **Other** | `PHP` `Laravel` |
+| **Tools** | GitHub · VS Code · OpenCode · Claude Code · G-Helper · Home Assistant |
 
----
+<br/>
 
-## Beyond the office
+## `SEC.06` HOME LAB
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-I like building infrastructure because the best way to understand systems is to **break them yourself**.
+> Production environments teach you how to keep systems alive.
+> Homelabs teach you why they died.
 
-My personal lab is a constantly evolving playground for:
+Constantly evolving playground for: Linux server admin · Docker orchestration · home networking · self-hosted services · storage/backup architecture · media infra · monitoring/observability · home automation · local LLMs · network security · hardware experimentation.
 
-* Linux server administration
-* Docker & container orchestration
-* Home networking
-* Self-hosted services
-* Storage & backup architecture
-* Media infrastructure
-* Monitoring & observability
-* Home automation
-* Local LLMs and AI agents
-* Network security
-* Hardware experimentation
+**Stack:** `Debian` `DietPi` `Docker` `Portainer` `TrueNAS` `Tailscale` `NetBird` `Jellyfin` `Immich` `Home Assistant`
 
-Current lab stack includes things like **Debian, DietPi, Docker, Portainer, TrueNAS, Tailscale, NetBird, Jellyfin, Immich, Home Assistant, monitoring, and local AI tooling**.
+<br/>
 
-Production environments teach you how to keep systems alive.
+## `SEC.07` DOCTRINE
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-Homelabs teach you why they died.
-
----
-
-## Engineering principles
-
-```text
+```
 01  Automate repetitive work.
 02  Design for failure, not perfection.
 03  Observe systems before guessing.
@@ -241,34 +210,32 @@ Homelabs teach you why they died.
 10  Ship, learn, improve, repeat.
 ```
 
----
+<br/>
 
-## Education
+## `SEC.08` TRAINING RECORD
+`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
 
-**B.Sc. Computer Science — Umma University**
-*2021 – 2024 · Nairobi, Kenya*
+**B.Sc. Computer Science — Umma University** &nbsp;·&nbsp; `2021 — 2024` &nbsp;·&nbsp; Nairobi, Kenya
 
-Relevant areas:
+`Data Structures & Algorithms` `Database Systems` `Operating Systems` `Computer Networks` `Network Security` `Computer Architecture` `Software Engineering`
 
-`Data Structures & Algorithms` · `Database Systems` · `Operating Systems` · `Computer Networks` · `Network Security` · `Computer Architecture` · `Software Engineering`
+<br/>
 
----
-
-## GitHub
+## `SEC.09` TELEMETRY
 
 <div align="center">
 
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfalme0\&show_icons=true\&theme=default\&hide_border=true\&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&title_color=0a2a4a&icon_color=e85d3a&text_color=0a2a4a&bg_color=ebe9df&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfalme0\&layout=compact\&theme=default\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfalme0&layout=compact&hide_border=true&title_color=0a2a4a&text_color=0a2a4a&bg_color=ebe9df)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-**Software · Infrastructure · Systems · Automation**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a2a4a&height=90&section=footer&text=END%20OF%20REPORT&fontColor=ebe9df&fontSize=22&fontAlignY=60&desc=SOFTWARE%20·%20INFRASTRUCTURE%20·%20SYSTEMS%20·%20AUTOMATION&descAlignY=85&descSize=13&descColor=e85d3a" width="100%"/>
 
 *"If I have to do it twice, I'm probably automating it."*
 
