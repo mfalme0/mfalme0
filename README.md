@@ -1,242 +1,254 @@
+<!--
+  ============================================================================
+  JOSEPH GITAU CHEGE — GitHub profile README
+  Design system: "Playful Geometric"  ·  Stable Grid, Wild Decoration
+  ----------------------------------------------------------------------------
+  TOKENS  (inlined because GitHub strips <style> blocks)
+    paper    #FFFDF5   ink      #1E293B   slate    #64748B   line  #E2E8F0
+    violet   #8B5CF6   violet-d #7C3AED  (filled surfaces carrying white text)
+    pink     #F472B6   amber    #FBBF24   mint     #34D399
+    radius   8 / 16 / 24 / 9999        border  2px solid ink
+    pop      4px 4px 0 0 ink   (chip)   ·   6px 6px 0 0 ink  (card)
+    type     system-ui geometric stack · 800 headings / 500-600 body
+  RULES
+    - amber / pink / mint chips always wear INK text; only violet-d takes white
+      (8B5CF6 under white text is 4.2:1, fails AA at body size — 7C3AED is 5.7:1)
+    - one pattern per block: panel / sec-title / squiggle / pill / candy-btn /
+      sticker-card / log-card / chip / bubble. Copy-paste IS the reuse mechanism
+      here; keep patterns byte-identical so future edits stay global.
+    - ZERO blank lines inside the panel: a blank line terminates the CommonMark
+      HTML block and dumps raw tags onto the page. Spacing is margin, not <br/>.
+  NOT POSSIBLE IN GITHUB MARKDOWN (platform limits, not choices)
+    - webfonts, so Outfit / Plus Jakarta Sans fall back to the system geometric
+      stack; hierarchy is carried by weight + tracking instead
+    - :hover, :active, transforms, keyframes — every state is static
+    - position:absolute — confetti is laid out in normal flow, never overlapping
+      text, so nothing can escape the panel
+  ============================================================================
+-->
+<div style="background:#FFFDF5;border:2px solid #1E293B;border-radius:24px;padding:36px 28px 32px;box-shadow:8px 8px 0 0 #E2E8F0;">
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a2a4a&height=140&section=header&text=FIELD%20REPORT&fontColor=ebe9df&fontSize=42&fontAlignY=55&desc=JOSEPH%20GITAU%20CHEGE%20—%20NAIROBI,%20KE&descAlignY=80&descSize=16&descColor=e85d3a" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2600&pause=900&color=E85D3A&background=0A2A4A00&center=true&vCenter=true&width=560&lines=SYSTEMS+THINKER+WHO+SHIPS.;BUILD+IT.+AUTOMATE+IT.+OBSERVE+IT.+DOCUMENT+IT.;STATUS%3A+OPEN+TO+DEPLOYMENT." alt="typing-svg" />
-
-<br/>
-
-`FILE No. JGC-2026` &nbsp;·&nbsp; `CLASSIFICATION: PUBLIC` &nbsp;·&nbsp; `STATUS: ACTIVE — SEEKING DEPLOYMENT`
-
-<br/>
-
-[![Email](https://img.shields.io/badge/joseph.gitau.c%40gmail.com-0a2a4a?style=flat-square&logo=gmail&logoColor=ebe9df)](mailto:joseph.gitau.c@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a2a4a?style=flat-square&logo=linkedin&logoColor=ebe9df)](https://linkedin.com/in/joseph-gitau)
-[![Portfolio](https://img.shields.io/badge/gitau.vercel.app-e85d3a?style=flat-square&logo=vercel&logoColor=ebe9df)](https://gitau.vercel.app)
-[![GitHub](https://img.shields.io/badge/mfalme0-0a2a4a?style=flat-square&logo=github&logoColor=ebe9df)](https://github.com/mfalme0)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=140&section=header&text=JOSEPH%20GITAU%20CHEGE&fontColor=ffffff&fontSize=42&fontAlignY=55&desc=NAIROBI,%20KENYA%20%E2%80%94%20OPEN%20TO%20DEPLOYMENT&descAlignY=80&descSize=16&descColor=fbbf24" width="100%" alt="Joseph Gitau Chege — Nairobi, Kenya"/>
 </div>
-
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  SEC.00 — SUBJECT DOSSIER                                 │
-├──────────────────────────────────────────────────────────┤
-│  NAME ......... Joseph Gitau Chege                        │
-│  ROLE .......... Full Stack Engineer · Infra & Platform   │
-│  BASE .......... Nairobi, Kenya                           │
-│  FOCUS ......... Backend · Infra · Identity · AI-enabled  │
-│                    engineering                             │
-│  STATUS ........ Open to new opportunities                │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-## `SEC.01` WHAT I DO
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-I build and operate systems across the entire stack — backend services, databases, Linux servers, networks, cloud infrastructure, security, and the people running them. My sweet spot is where **software engineering meets infrastructure**.
-
-| MODULE | SPEC |
-|:--|:--|
-| `[SOFTWARE]` | Backend APIs · Full-stack systems · Distributed services · Real-time apps · DB architecture · Auth |
-| `[PLATFORM]` | Linux · Azure · Docker · Kubernetes · On-prem infra · Storage · CI/CD · Infra automation |
-| `[IDENTITY]` | Password & biometric auth · Session mgmt · Push/in-app notifications · Presence & read receipts |
-| `[RELIABILITY]` | Monitoring · Incident response · Health checks · Backup/recovery · Capacity planning |
-| `[NETWORK/SEC]` | LAN/WAN · VLANs · Firewalls · Wi-Fi · Structured cabling · Access control |
-| `[BUSINESS SYS]` | Microsoft Dynamics 365 Business Central (AL) · Power BI · Power Automate · ERP integrations |
-| `[AI/ML]` | TensorFlow · PyTorch · LLM/prompt engineering · MLOps · Local LLMs (Ollama) · AI coding agents |
-| `[LEADERSHIP]` | Engineering direction · Technical architecture · Cross-functional teams · IT strategy |
-
-<br/>
-
-## `SEC.02` SERVICE RECORD
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-### `LOG 01` — Engineering Team Lead & Head of IT · Steadfast Academy
-**`APR 2025 — SEP 2026`** &nbsp;|&nbsp; Nairobi, Kenya
-
-Led the technology function across **software engineering, AI, robotics, and educational technology** for four engineering teams — hands-on with architecture, infrastructure, backend systems, networking, and production ops.
-
-<details>
-<summary><code>▸ EXPAND FIELD NOTES</code></summary>
-
-<br/>
-
-**Software & Platform**
-- Architected a full-stack institutional **ERP** from greenfield to production — student records, attendance, finance, communication, notifications, auth, admin workflows.
-- Built a real-time communication subsystem: presence, delivery states, read receipts, live updates.
-- Implemented password + biometric authentication for institutional users.
-- Designed notification infra for real-time in-app & push across web and mobile.
-- Built an internal **Flutter admin app**; contributed to the iOS/mobile parent app connecting to the ERP.
-- Built integrations, reports, and extensions on **Microsoft Dynamics 365 Business Central (AL)**, incl. connecting BC to the in-house ERP, plus Power BI / Power Automate workflows.
-
-**Infrastructure & Cloud**
-- Operated Ubuntu/Debian production infra across cloud and on-prem.
-- Containerised workloads with Docker and Kubernetes; managed Azure deployments, storage, networking, backups.
-- Built and maintained **10TB+ TrueNAS** storage with redundancy and recovery planning.
-- Designed institutional network infra — switching, VLANs, Wi-Fi, firewalls, structured cabling.
-
-**Reliability & Automation**
-- Maintained ~**99.9%** service availability.
-- Cut deployment errors **45%** through automation.
-- Reclaimed **15+ hrs/week** via operational automation.
-- Cut cloud spend ~**20%**, internet downtime ~**50%**.
-
-**Leadership**
-- Primary technical bridge between engineering, leadership, and institutional stakeholders.
-- Set technical standards; gated releases; led the shift to documented, observable systems.
-
-</details>
-
-<br/>
-
-### `LOG 02` — Software Consultant (Solo Developer) · Gituamba Girls School
-**`JAN 2024 — MAR 2025`** &nbsp;|&nbsp; Kenya
-
-<details>
-<summary><code>▸ EXPAND FIELD NOTES</code></summary>
-
-<br/>
-
-- Designed and built a full-stack school management platform — student records, finance, attendance, academic workflows.
-- Designed RESTful APIs and relational schemas using **C#, Python, PostgreSQL, MySQL**.
-- Built integrations, reports, and extensions on **Microsoft Dynamics 365 Business Central (AL)**.
-- Automated repetitive admin workflows; managed end-to-end deployment and infra.
-- Worked directly with non-technical stakeholders to translate problems into software.
-
-</details>
-
-<br/>
-
-### `LOG 03` — Software Engineering Intern · VisionFund Kenya
-**`OCT 2023 — DEC 2023`** &nbsp;|&nbsp; Kenya
-
-<details>
-<summary><code>▸ EXPAND FIELD NOTES</code></summary>
-
-<br/>
-
-- Worked on internal software and automation in a microfinance environment.
-- Built backend/automation functionality with **C#, Node.js, Java/Spring Boot**.
-- Worked with MySQL databases, query optimisation, production maintenance in a high-accountability setting.
-
-</details>
-
-<br/>
-
-## `SEC.03` FIELD-TESTED
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-| ARTIFACT | DESCRIPTION |
-|:--|:--|
-| **Institutional ERP** | Full-stack ERP — student records, attendance, finance, comms, notifications, auth, admin |
-| **Notification Infra** | Real-time in-app + push notification infrastructure |
-| **Identity Platform** | Password + biometric auth, account lifecycle, access control |
-| **Real-Time Comms** | Chat, presence, delivery states, read receipts, live updates |
-| **School Finance Systems** | Custom fee billing + financial workflows with banking integrations |
-| **Flutter Admin App** | Internal admin application for institutional operations |
-| **BetterFarm** | AgriTech platform — cloud-hosted services, real-time data, backend infra |
-| **Infrastructure Platform** | Linux, Docker/Kubernetes, Azure, TrueNAS, backups, monitoring |
-| **Automation Tooling** | Bash/Python/CI-CD automation reducing repetitive engineering work |
-
-<br/>
-
-## `SEC.04` CURRENT COORDINATES
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-```
-distributed systems ──▶ platform engineering ──▶ systems thinking
-      │                        │                        │
-  APIs & services          containers               reliability
-  event-driven arch        Kubernetes                security
-  real-time comms          Linux / cloud             capacity planning
-  identity & auth          observability             infrastructure
-  notification delivery    automation                tech leadership
-```
-
-Increasingly drawn to **AI-assisted software engineering, local AI infrastructure, developer tooling, and agentic systems** — where AI plugs into real engineering workflows, not just chat.
-
-<br/>
-
-## `SEC.05` LOADOUT
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-| CATEGORY | STACK |
-|:--|:--|
-| **Languages** | `C#` `Python` `JavaScript` `TypeScript` `Java` `C++` `Bash` `Kotlin` |
-| **Backend** | `Spring Boot` `.NET` `Node.js` `Express` `NestJS` REST APIs · Auth · Real-time systems |
-| **Frontend** | `React` `Next.js` `Angular` `Vue` `Nuxt` `TypeScript` |
-| **Mobile** | `Flutter` |
-| **Databases** | `PostgreSQL` `MySQL` `MongoDB` `Firebase` |
-| **Cloud** | `Azure` `GCP` |
-| **Infrastructure** | `Linux` `Ubuntu` `Debian` `Docker` `Kubernetes` `Proxmox` `TrueNAS` |
-| **DevOps** | `Git` `GitHub Actions` Bash automation · Monitoring |
-| **Networking** | LAN/WAN · VLANs · Routing · Switching · Wi-Fi · Firewalls |
-| **Business Systems** | `Dynamics 365 BC (AL)` `Power BI` `Power Automate` `ERPNext` |
-| **AI & Automation** | `TensorFlow` `PyTorch` LLM/prompt engineering · MLOps · `Ollama` · AI coding agents |
-| **Other** | `PHP` `Laravel` |
-| **Tools** | GitHub · VS Code · OpenCode · Claude Code · G-Helper · Home Assistant |
-
-<br/>
-
-## `SEC.06` HOME LAB
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-> Production environments teach you how to keep systems alive.
-> Homelabs teach you why they died.
-
-Constantly evolving playground for: Linux server admin · Docker orchestration · home networking · self-hosted services · storage/backup architecture · media infra · monitoring/observability · home automation · local LLMs · network security · hardware experimentation.
-
-**Stack:** `Debian` `DietPi` `Docker` `Portainer` `TrueNAS` `Tailscale` `NetBird` `Jellyfin` `Immich` `Home Assistant`
-
-<br/>
-
-## `SEC.07` DOCTRINE
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-```
-01  Automate repetitive work.
-02  Design for failure, not perfection.
-03  Observe systems before guessing.
-04  Backups are useless until recovery is tested.
-05  Security belongs in the architecture.
-06  Documentation is part of the system.
-07  Prefer boring infrastructure that works.
-08  Measure before optimising.
-09  Build systems people can actually operate.
-10  Ship, learn, improve, repeat.
-```
-
-<br/>
-
-## `SEC.08` TRAINING RECORD
-`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -`
-
-**B.Sc. Computer Science — Umma University** &nbsp;·&nbsp; `2021 — 2024` &nbsp;·&nbsp; Nairobi, Kenya
-
-`Data Structures & Algorithms` `Database Systems` `Operating Systems` `Computer Networks` `Network Security` `Computer Architecture` `Software Engineering`
-
-<br/>
-
-## `SEC.09` TELEMETRY
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&title_color=0a2a4a&icon_color=e85d3a&text_color=0a2a4a&bg_color=ebe9df&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfalme0&layout=compact&hide_border=true&title_color=0a2a4a&text_color=0a2a4a&bg_color=ebe9df)
-
+<div align="center" style="margin-top:14px;">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2600&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&width=560&lines=SYSTEMS+THINKER+WHO+SHIPS.;BUILD+IT.+AUTOMATE+IT.+OBSERVE+IT.+DOCUMENT+IT.;STATUS%3A+OPEN+TO+DEPLOYMENT." alt="Systems thinker who ships. Build it. Automate it. Observe it. Document it." />
 </div>
-
-<br/>
-
+<div align="center" style="margin-top:18px;">
+<span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 14px;margin:0 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;box-shadow:3px 3px 0 0 #1E293B;">FILE No. JGC-2026</span>
+<span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 14px;margin:0 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;box-shadow:3px 3px 0 0 #1E293B;">CLASSIFICATION: PUBLIC</span>
+<span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 14px;margin:0 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;box-shadow:3px 3px 0 0 #1E293B;">STATUS: ACTIVE &mdash; SEEKING DEPLOYMENT</span>
+</div>
+<div align="center" style="margin-top:18px;">
+<a href="mailto:joseph.gitau.c@gmail.com" style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:12px 22px;margin:6px 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;text-decoration:none;box-shadow:5px 5px 0 0 #1E293B;"><span style="display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:#FFFFFF;color:#1E293B;border-radius:9999px;font-size:12px;margin-right:8px;">&#9993;</span>Email</a>
+<a href="https://linkedin.com/in/joseph-gitau" style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:12px 22px;margin:6px 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;text-decoration:none;box-shadow:5px 5px 0 0 #1E293B;"><span style="display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:#FFFFFF;color:#1E293B;border-radius:9999px;font-size:12px;margin-right:8px;">in</span>LinkedIn</a>
+<a href="https://gitau.vercel.app" style="display:inline-block;background:#FFFFFF;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:12px 22px;margin:6px 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;text-decoration:none;box-shadow:5px 5px 0 0 #1E293B;"><span style="display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:#FBBF24;color:#1E293B;border-radius:9999px;font-size:12px;margin-right:8px;">&#8599;</span>Portfolio</a>
+<a href="https://github.com/mfalme0" style="display:inline-block;background:#FFFFFF;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:12px 22px;margin:6px 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;text-decoration:none;box-shadow:5px 5px 0 0 #1E293B;"><span style="display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:#F472B6;color:#1E293B;border-radius:9999px;font-size:12px;margin-right:8px;">&#9679;</span>GitHub</a>
+</div>
+<div style="height:40px;"></div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;box-shadow:6px 6px 0 0 #F472B6;overflow:hidden;">
+<div style="background:#1E293B;padding:9px 16px;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:12px;font-weight:700;letter-spacing:1.5px;color:#34D399;">
+<span style="color:#F472B6;">&#9679;</span> <span style="color:#34D399;">&#9679;</span> <span style="color:#FBBF24;">&#9679;</span> &nbsp;sec.00 &mdash; subject dossier
+</div>
+<div style="padding:18px 22px 6px;">
+<div style="display:flex;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid #E2E8F0;">
+<div style="flex:0 0 120px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;color:#64748B;padding-top:3px;">NAME</div>
+<div style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;">Joseph Gitau Chege</div>
+</div>
+<div style="display:flex;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid #E2E8F0;">
+<div style="flex:0 0 120px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;color:#64748B;padding-top:3px;">ROLE</div>
+<div style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;color:#1E293B;">Full Stack Engineer &middot; Infra &amp; Platform</div>
+</div>
+<div style="display:flex;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid #E2E8F0;">
+<div style="flex:0 0 120px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;color:#64748B;padding-top:3px;">BASE</div>
+<div style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;color:#1E293B;">Nairobi, Kenya</div>
+</div>
+<div style="display:flex;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid #E2E8F0;">
+<div style="flex:0 0 120px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;color:#64748B;padding-top:3px;">FOCUS</div>
+<div style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:16px;font-weight:700;color:#7C3AED;">Backend &middot; Infra &middot; Identity &middot; AI-enabled engineering</div>
+</div>
+<div style="display:flex;flex-wrap:wrap;padding:10px 0;">
+<div style="flex:0 0 120px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.5px;color:#64748B;padding-top:6px;">STATUS</div>
+<div style="flex:1;"><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 14px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:800;box-shadow:3px 3px 0 0 #1E293B;">Open to new opportunities</span></div>
+</div>
+</div>
+<div style="height:8px;"></div>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">What I Do <span style="color:#7C3AED;">/ SEC.01</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="max-width:760px;margin:18px auto 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:500;color:#334155;line-height:1.75;text-align:center;">I build and operate systems across the entire stack &mdash; backend services, databases, Linux servers, networks, cloud infrastructure, security, and the people running them. My sweet spot is where <span style="font-weight:800;color:#1E293B;">software engineering meets infrastructure</span>.</div>
+<div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:24px;">
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">SOFTWARE</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">Backend APIs &middot; Full-stack systems &middot; Distributed services &middot; Real-time apps &middot; DB architecture &middot; Auth</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">PLATFORM</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">Linux &middot; Azure &middot; Docker &middot; Kubernetes &middot; On-prem infra &middot; Storage &middot; CI/CD &middot; Infra automation</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">IDENTITY</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">Password &amp; biometric auth &middot; Session mgmt &middot; Push/in-app notifications &middot; Presence &amp; read receipts</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">RELIABILITY</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">Monitoring &middot; Incident response &middot; Health checks &middot; Backup/recovery &middot; Capacity planning</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">NETWORK / SEC</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">LAN/WAN &middot; VLANs &middot; Firewalls &middot; Wi-Fi &middot; Structured cabling &middot; Access control</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">BUSINESS SYS</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">Microsoft Dynamics 365 Business Central (AL) &middot; Power BI &middot; Power Automate &middot; ERP integrations</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">AI / ML</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">TensorFlow &middot; PyTorch &middot; LLM/prompt engineering &middot; MLOps &middot; Local LLMs (Ollama) &middot; AI coding agents</div></div>
+<div style="flex:1 1 240px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">LEADERSHIP</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;margin-top:12px;">Engineering direction &middot; Technical architecture &middot; Cross-functional teams &middot; IT strategy</div></div>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Service Record <span style="color:#7C3AED;">/ SEC.02</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-left:10px solid #7C3AED;border-radius:16px;padding:20px 22px;margin-top:20px;box-shadow:6px 6px 0 0 #E2E8F0;">
+<div><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:3px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">LOG 01</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:20px;font-weight:800;color:#1E293B;margin-top:12px;">Engineering Team Lead &amp; Head of IT <span style="color:#7C3AED;">&middot; Steadfast Academy</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1.2px;color:#64748B;margin-top:4px;">APR 2025 &ndash; SEP 2026 &nbsp;&middot;&nbsp; NAIROBI, KENYA</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.7;margin-top:12px;">Led the technology function across <span style="font-weight:800;color:#1E293B;">software engineering, AI, robotics, and educational technology</span> for four engineering teams &mdash; hands-on with architecture, infrastructure, backend systems, networking, and production ops.</div>
+<details style="margin-top:16px;">
+<summary style="background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:12px;padding:10px 16px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;letter-spacing:1.5px;cursor:pointer;">EXPAND FIELD NOTES</summary>
+<div style="padding:16px 2px 2px;">
+<div style="font-size:12px;font-weight:800;letter-spacing:1.2px;color:#1E293B;margin-bottom:6px;padding-left:10px;border-left:4px solid #7C3AED;">SOFTWARE &amp; PLATFORM</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#7C3AED;font-weight:800;">&#9656;</span> Architected a full-stack institutional <span style="font-weight:800;">ERP</span> from greenfield to production &mdash; student records, attendance, finance, communication, notifications, auth, admin workflows.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#7C3AED;font-weight:800;">&#9656;</span> Built a real-time communication subsystem: presence, delivery states, read receipts, live updates.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#7C3AED;font-weight:800;">&#9656;</span> Implemented password + biometric authentication for institutional users.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#7C3AED;font-weight:800;">&#9656;</span> Designed notification infra for real-time in-app &amp; push across web and mobile.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#7C3AED;font-weight:800;">&#9656;</span> Built an internal <span style="font-weight:800;">Flutter admin app</span>; contributed to the iOS/mobile parent app connecting to the ERP.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#7C3AED;font-weight:800;">&#9656;</span> Built integrations, reports, and extensions on <span style="font-weight:800;">Microsoft Dynamics 365 Business Central (AL)</span>, incl. connecting BC to the in-house ERP, plus Power BI / Power Automate workflows.</div>
+<div style="font-size:12px;font-weight:800;letter-spacing:1.2px;color:#1E293B;margin:16px 0 6px;padding-left:10px;border-left:4px solid #F472B6;">INFRASTRUCTURE &amp; CLOUD</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Operated Ubuntu/Debian production infra across cloud and on-prem.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Containerised workloads with Docker and Kubernetes; managed Azure deployments, storage, networking, backups.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Built and maintained <span style="font-weight:800;">10TB+ TrueNAS</span> storage with redundancy and recovery planning.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Designed institutional network infra &mdash; switching, VLANs, Wi-Fi, firewalls, structured cabling.</div>
+<div style="font-size:12px;font-weight:800;letter-spacing:1.2px;color:#1E293B;margin:16px 0 6px;padding-left:10px;border-left:4px solid #34D399;">RELIABILITY &amp; AUTOMATION</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#0F9D6E;font-weight:800;">&#9656;</span> Maintained ~<span style="font-weight:800;">99.9%</span> service availability.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#0F9D6E;font-weight:800;">&#9656;</span> Cut deployment errors <span style="font-weight:800;">45%</span> through automation.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#0F9D6E;font-weight:800;">&#9656;</span> Reclaimed <span style="font-weight:800;">15+ hrs/week</span> via operational automation.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#0F9D6E;font-weight:800;">&#9656;</span> Cut cloud spend ~<span style="font-weight:800;">20%</span>, internet downtime ~<span style="font-weight:800;">50%</span>.</div>
+<div style="font-size:12px;font-weight:800;letter-spacing:1.2px;color:#1E293B;margin:16px 0 6px;padding-left:10px;border-left:4px solid #FBBF24;">LEADERSHIP</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#B45309;font-weight:800;">&#9656;</span> Primary technical bridge between engineering, leadership, and institutional stakeholders.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#B45309;font-weight:800;">&#9656;</span> Set technical standards; gated releases; led the shift to documented, observable systems.</div>
+</div>
+</details>
+</div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-left:10px solid #F472B6;border-radius:16px;padding:20px 22px;margin-top:18px;box-shadow:6px 6px 0 0 #E2E8F0;">
+<div><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:3px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">LOG 02</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:20px;font-weight:800;color:#1E293B;margin-top:12px;">Software Consultant <span style="color:#D6336C;">(Solo Developer) &middot; Gituamba Girls School</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1.2px;color:#64748B;margin-top:4px;">JAN 2024 &ndash; MAR 2025 &nbsp;&middot;&nbsp; KENYA</div>
+<details style="margin-top:16px;">
+<summary style="background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:12px;padding:10px 16px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;letter-spacing:1.5px;cursor:pointer;">EXPAND FIELD NOTES</summary>
+<div style="padding:16px 2px 2px;">
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Designed and built a full-stack school management platform &mdash; student records, finance, attendance, academic workflows.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Designed RESTful APIs and relational schemas using <span style="font-weight:800;">C#, Python, PostgreSQL, MySQL</span>.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Built integrations, reports, and extensions on <span style="font-weight:800;">Microsoft Dynamics 365 Business Central (AL)</span>.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Automated repetitive admin workflows; managed end-to-end deployment and infra.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#D6336C;font-weight:800;">&#9656;</span> Worked directly with non-technical stakeholders to translate problems into software.</div>
+</div>
+</details>
+</div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-left:10px solid #FBBF24;border-radius:16px;padding:20px 22px;margin-top:18px;box-shadow:6px 6px 0 0 #E2E8F0;">
+<div><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:3px 12px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">LOG 03</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:20px;font-weight:800;color:#1E293B;margin-top:12px;">Software Engineering Intern <span style="color:#B45309;">&middot; VisionFund Kenya</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1.2px;color:#64748B;margin-top:4px;">OCT 2023 &ndash; DEC 2023 &nbsp;&middot;&nbsp; KENYA</div>
+<details style="margin-top:16px;">
+<summary style="background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:12px;padding:10px 16px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;letter-spacing:1.5px;cursor:pointer;">EXPAND FIELD NOTES</summary>
+<div style="padding:16px 2px 2px;">
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#B45309;font-weight:800;">&#9656;</span> Worked on internal software and automation in a microfinance environment.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#B45309;font-weight:800;">&#9656;</span> Built backend/automation functionality with <span style="font-weight:800;">C#, Node.js, Java/Spring Boot</span>.</div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#334155;line-height:1.7;"><span style="color:#B45309;font-weight:800;">&#9656;</span> Worked with MySQL databases, query optimisation, production maintenance in a high-accountability setting.</div>
+</div>
+</details>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Field-Tested <span style="color:#7C3AED;">/ SEC.03</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:20px;">
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">01</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Institutional ERP</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Full-stack ERP &mdash; student records, attendance, finance, comms, notifications, auth, admin</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">02</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Notification Infra</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Real-time in-app + push notification infrastructure</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">03</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Identity Platform</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Password + biometric auth, account lifecycle, access control</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">04</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Real-Time Comms</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Chat, presence, delivery states, read receipts, live updates</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">05</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">School Finance Systems</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Custom fee billing + financial workflows with banking integrations</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">06</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Flutter Admin App</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Internal admin application for institutional operations</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">07</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">BetterFarm</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">AgriTech platform &mdash; cloud-hosted services, real-time data, backend infra</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">08</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Infrastructure Platform</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Linux, Docker/Kubernetes, Azure, TrueNAS, backups, monitoring</div></div>
+<div style="flex:1 1 250px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;width:30px;height:30px;line-height:26px;text-align:center;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">09</span><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:800;color:#1E293B;margin:12px 0 6px;">Automation Tooling</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;color:#475569;line-height:1.65;">Bash/Python/CI-CD automation reducing repetitive engineering work</div></div>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Current Coordinates <span style="color:#7C3AED;">/ SEC.04</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:20px;margin-top:20px;box-shadow:6px 6px 0 0 #E2E8F0;overflow-x:auto;">
+<pre style="margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;line-height:1.7;color:#1E293B;"><code><span style="color:#7C3AED;font-weight:700;">distributed systems</span> <span style="color:#F472B6;font-weight:700;">&#9472;&#9472;&#9654;</span> <span style="color:#7C3AED;font-weight:700;">platform engineering</span> <span style="color:#F472B6;font-weight:700;">&#9472;&#9472;&#9654;</span> <span style="color:#7C3AED;font-weight:700;">systems thinking</span>
+<span style="color:#F472B6;">&#9474;</span>                        <span style="color:#F472B6;">&#9474;</span>                        <span style="color:#F472B6;">&#9474;</span>
+APIs &amp; services          containers               reliability
+event-driven arch        Kubernetes                security
+real-time comms          Linux / cloud             capacity planning
+identity &amp; auth          observability             infrastructure
+notification delivery    automation                tech leadership</code></pre>
+</div>
+<div style="max-width:760px;margin:20px auto 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:500;color:#334155;line-height:1.75;text-align:center;">Increasingly drawn to <span style="font-weight:800;color:#1E293B;">AI-assisted software engineering, local AI infrastructure, developer tooling, and agentic systems</span> &mdash; where AI plugs into real engineering workflows, not just chat.</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Loadout <span style="color:#7C3AED;">/ SEC.05</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:20px;">
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">LANGUAGES</span><div style="margin-top:12px;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">C#</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Python</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">JavaScript</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">TypeScript</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Java</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">C++</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Bash</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Kotlin</span></div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">BACKEND</span><div style="margin-top:12px;"><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Spring Boot</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">.NET</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Node.js</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Express</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">NestJS</span></div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;color:#64748B;line-height:1.6;margin-top:2px;">REST APIs &middot; Auth &middot; Real-time systems</div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">FRONTEND</span><div style="margin-top:12px;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">React</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Next.js</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Angular</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Vue</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Nuxt</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">TypeScript</span></div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">MOBILE &middot; DATABASES &middot; CLOUD</span><div style="margin-top:12px;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Flutter</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">PostgreSQL</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">MySQL</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">MongoDB</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Firebase</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Azure</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">GCP</span></div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">INFRASTRUCTURE</span><div style="margin-top:12px;"><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Linux</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Ubuntu</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Debian</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Docker</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Kubernetes</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Proxmox</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">TrueNAS</span></div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">DEVOPS &amp; NETWORKING</span><div style="margin-top:12px;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Git</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">GitHub Actions</span></div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;color:#64748B;line-height:1.6;margin-top:2px;">Bash automation &middot; Monitoring</div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;color:#64748B;line-height:1.6;margin-top:8px;">LAN/WAN &middot; VLANs &middot; Routing &middot; Switching &middot; Wi-Fi &middot; Firewalls</div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">BUSINESS SYSTEMS</span><div style="margin-top:12px;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Dynamics 365 BC (AL)</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Power BI</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Power Automate</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">ERPNext</span></div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">AI &amp; AUTOMATION</span><div style="margin-top:12px;"><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">TensorFlow</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">PyTorch</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Ollama</span></div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;color:#64748B;line-height:1.6;margin-top:2px;">LLM/prompt engineering &middot; MLOps &middot; AI coding agents</div></div>
+<div style="flex:1 1 330px;background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;box-shadow:6px 6px 0 0 #E2E8F0;"><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 13px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:11px;font-weight:800;letter-spacing:1.2px;">OTHER &amp; TOOLS</span><div style="margin-top:12px;"><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">PHP</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Laravel</span></div><div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;color:#64748B;line-height:1.6;margin-top:2px;">GitHub &middot; VS Code &middot; OpenCode &middot; Claude Code &middot; G-Helper &middot; Home Assistant</div></div>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Home Lab <span style="color:#7C3AED;">/ SEC.06</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div align="center" style="background:#FFFFFF;border:2px solid #1E293B;border-radius:32px 32px 32px 4px;padding:24px 26px;margin-top:20px;box-shadow:8px 8px 0 0 #F472B6;">
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:20px;font-weight:800;color:#1E293B;line-height:1.45;">Production environments teach you how to keep systems alive.<br>Homelabs teach you why they died.</div>
+</div>
+<div style="max-width:760px;margin:20px auto 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:500;color:#334155;line-height:1.75;text-align:center;">Constantly evolving playground for: Linux server admin &middot; Docker orchestration &middot; home networking &middot; self-hosted services &middot; storage/backup architecture &middot; media infra &middot; monitoring/observability &middot; home automation &middot; local LLMs &middot; network security &middot; hardware experimentation.</div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:16px 18px;margin-top:20px;box-shadow:6px 6px 0 0 #E2E8F0;">
+<div style="font-size:12px;font-weight:800;letter-spacing:1.2px;color:#1E293B;margin-bottom:10px;padding-left:10px;border-left:4px solid #34D399;">STACK</div>
+<span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Debian</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">DietPi</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Docker</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Portainer</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">TrueNAS</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Tailscale</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">NetBird</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Jellyfin</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Immich</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Home Assistant</span>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Doctrine <span style="color:#7C3AED;">/ SEC.07</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="display:flex;flex-wrap:wrap;gap:14px;margin-top:20px;">
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">01</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Automate repetitive work.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">02</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Design for failure, not perfection.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">03</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Observe systems before guessing.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">04</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Backups are useless until recovery is tested.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">05</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Security belongs in the architecture.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">06</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Documentation is part of the system.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">07</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Prefer boring infrastructure that works.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">08</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Measure before optimising.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">09</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Build systems people can actually operate.</span></div>
+<div style="flex:1 1 330px;display:flex;align-items:flex-start;background:#FFFFFF;border:2px solid #1E293B;border-radius:14px;padding:12px 14px;box-shadow:5px 5px 0 0 #E2E8F0;"><span style="flex:0 0 34px;height:34px;line-height:30px;text-align:center;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:800;">10</span><span style="flex:1;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:14px;font-weight:600;color:#334155;line-height:1.6;padding-top:6px;">Ship, learn, improve, repeat.</span></div>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Training Record <span style="color:#7C3AED;">/ SEC.08</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-left:10px solid #FBBF24;border-radius:16px;padding:20px 22px;margin-top:20px;box-shadow:6px 6px 0 0 #E2E8F0;">
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:20px;font-weight:800;color:#1E293B;">B.Sc. Computer Science <span style="color:#B45309;">&mdash; Umma University</span></div>
+<div style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:1.2px;color:#64748B;margin-top:4px;">2021 &ndash; 2024 &nbsp;&middot;&nbsp; NAIROBI, KENYA</div>
+<div style="margin-top:14px;">
+<span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Data Structures &amp; Algorithms</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Database Systems</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Operating Systems</span><span style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Computer Networks</span><span style="display:inline-block;background:#FBBF24;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Network Security</span><span style="display:inline-block;background:#F472B6;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Computer Architecture</span><span style="display:inline-block;background:#34D399;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:4px 12px;margin:0 6px 8px 0;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:600;box-shadow:3px 3px 0 0 #1E293B;">Software Engineering</span>
+</div>
+</div>
+<div style="height:52px;"></div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:30px;font-weight:800;letter-spacing:-0.5px;color:#1E293B;">Telemetry <span style="color:#7C3AED;">/ SEC.09</span></div>
+<div align="center" style="font-size:22px;color:#F472B6;letter-spacing:6px;line-height:1;margin:12px 0 4px;">&#12316; &#12316; &#12316;</div>
+<div align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin-top:20px;">
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:8px;box-shadow:6px 6px 0 0 #E2E8F0;"><img src="https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&title_color=7c3aed&icon_color=f472b6&text_color=1e293b&bg_color=ffffff&ring_color=34d399&line_color=e2e8f0&border_radius=16&count_private=true" alt="GitHub stats for mfalme0" style="display:block;max-width:100%;"></div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:8px;box-shadow:6px 6px 0 0 #E2E8F0;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfalme0&layout=compact&hide_border=true&title_color=7c3aed&text_color=1e293b&bg_color=ffffff&border_radius=16" alt="Top languages for mfalme0" style="display:block;max-width:100%;"></div>
+<div style="background:#FFFFFF;border:2px solid #1E293B;border-radius:16px;padding:8px;box-shadow:6px 6px 0 0 #E2E8F0;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mfalme0&theme=default&hide_border=true&background=ffffff&ring=34d399&fire=7c3aed&currStreakNum=1e293b&sideNums=64748b&dates=64748b" alt="Contribution streak for mfalme0" style="display:block;max-width:100%;"></div>
+</div>
+<div style="height:56px;"></div>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a2a4a&height=90&section=footer&text=END%20OF%20REPORT&fontColor=ebe9df&fontSize=22&fontAlignY=60&desc=SOFTWARE%20·%20INFRASTRUCTURE%20·%20SYSTEMS%20·%20AUTOMATION&descAlignY=85&descSize=13&descColor=e85d3a" width="100%"/>
-
-*"If I have to do it twice, I'm probably automating it."*
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e293b&height=90&section=footer&text=END%20OF%20REPORT&fontColor=fffdf5&fontSize=22&fontAlignY=60&desc=SOFTWARE%20%C2%B7%20INFRASTRUCTURE%20%C2%B7%20SYSTEMS%20%C2%B7%20AUTOMATION&descAlignY=85&descSize=13&descColor=34d399" width="100%" alt="End of report — software, infrastructure, systems, automation"/>
+</div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:19px;font-weight:800;color:#1E293B;font-style:italic;margin-top:22px;">&ldquo;If I have to do it twice, I&rsquo;m probably automating it.&rdquo;</div>
+<div align="center" style="margin-top:24px;">
+<a href="mailto:joseph.gitau.c@gmail.com" style="display:inline-block;background:#7C3AED;color:#FFFFFF;border:2px solid #1E293B;border-radius:9999px;padding:13px 26px;margin:6px 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;text-decoration:none;box-shadow:5px 5px 0 0 #1E293B;">Let&rsquo;s build something reliable</a>
+<a href="https://gitau.vercel.app" style="display:inline-block;background:#FFFFFF;color:#1E293B;border:2px solid #1E293B;border-radius:9999px;padding:13px 26px;margin:6px 5px;font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;text-decoration:none;box-shadow:5px 5px 0 0 #1E293B;">See my work</a>
+</div>
+<div align="center" style="margin-top:24px;">
+<span style="display:inline-block;width:18px;height:18px;background:#FBBF24;border:2px solid #1E293B;border-radius:9999px;margin:0 5px;"></span>
+<span style="display:inline-block;width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-bottom:20px solid #8B5CF6;margin:0 7px;"></span>
+<span style="display:inline-block;width:18px;height:18px;background:#F472B6;border:2px solid #1E293B;margin:0 5px;"></span>
+<span style="display:inline-block;width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-bottom:20px solid #34D399;margin:0 7px;"></span>
+<span style="display:inline-block;width:18px;height:18px;background:#34D399;border:2px solid #1E293B;border-radius:9999px;margin:0 5px;"></span>
+</div>
+<div align="center" style="font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:2px;color:#64748B;margin-top:16px;">MADE WITH BACKUPS, MONITORING &amp; TOO MUCH COFFEE &nbsp;&middot;&nbsp; NAIROBI, KE</div>
 </div>
