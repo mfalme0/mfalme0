@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED%2C50:DB2777%2C100:0891B2&height=220&text=Joseph+Falme&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=Systems+Engineer++%C2%B7++Automation+Architect&descSize=28&descAlignY=58&descAlign=50&descColor=E9D5FF&animation=fadeIn" alt="Joseph Falme — Systems Engineer" width="870">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED%2C50:DB2777%2C100:0891B2&height=220&text=Joseph+Gitau&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=Systems+Engineer++%C2%B7++Automation+Architect&descSize=28&descAlignY=58&descAlign=50&descColor=E9D5FF&animation=fadeIn" alt="Joseph Gitau — Systems Engineer" width="870">
 </div>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=1200&color=22D3EE%2CF472B6%2CA78BFA%2CE879F9&center=true&vCenter=true&width=780&lines=Systems+Engineer%3BAutomation+Architect%3BCloud+%26+Platform+Engineering%3BTerminal+Enthusiast%3BI+break+things%2C+then+automate+the+fix&multiline=true&repeat=true" alt="Animated typing: role titles" width="780">
@@ -8,13 +8,13 @@
 <img src="https://img.shields.io/badge/?style=for-the-badge&label=STATUS&message=AVAILABLE+FOR+WORK&color=22C55E&logo=online&logoColor=white" alt="STATUS AVAILABLE FOR WORK" height="28">
 <img src="https://img.shields.io/badge/?style=for-the-badge&label=EXPERIENCE&message=BUILT%2C+NOT+BOUGHT&color=7C3AED" alt="EXPERIENCE BUILT, NOT BOUGHT" height="28">
 <img src="https://img.shields.io/badge/?style=for-the-badge&label=FOCUS&message=AUTOMATION&color=0891B2" alt="FOCUS AUTOMATION" height="28">
-<img src="https://img.shields.io/badge/?style=for-the-badge&label=LOCATION&message=REMOTE+FIRST&color=DB2777&logo=github&logoColor=white" alt="LOCATION REMOTE FIRST" height="28">
+<img src="https://img.shields.io/badge/?style=for-the-badge&label=LOCATION&message=NAIROBI%2C+KENYA&color=DB2777&logo=github&logoColor=white" alt="LOCATION NAIROBI, KENYA" height="28">
 </div>
 <div align="center">
 <strong>Systems Engineer · Automation Architect · Available for work</strong>
 </div>
 <div align="center">
-<a href="https://github.com/mfalme0" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow Joseph Falme on GitHub" height="28"></a> <a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/REPOS-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="Browse repositories" height="28"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/badge/FOLLOWERS-DB2777?style=flat-square&logo=users&logoColor=white" alt="See followers" height="28"></a>
+<a href="https://github.com/mfalme0" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow Joseph Gitau on GitHub" height="28"></a> <a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/REPOS-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="Browse repositories" height="28"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/badge/FOLLOWERS-DB2777?style=flat-square&logo=users&logoColor=white" alt="See followers" height="28"></a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mfalme0&label=Profile%20views&color=7C3AED" alt="Profile view count">
@@ -23,7 +23,7 @@
 
 ## 🧪 SUBJECT DOSSIER
 
-> **Joseph Falme** — the operator behind the automation.
+> **Joseph Gitau** — the operator behind the automation.
 >
 > Most problems are the same problem wearing a different hat: a human doing
 > machine work, slowly, on purpose. I find those, remove them, and leave the
@@ -31,7 +31,7 @@
 
 <table align="center" width="100%" cellpadding="8" cellspacing="0">
 <tr><th width="25%" align="center" valign="middle">👤 IDENTITY</th><th width="25%" align="center" valign="middle">🏭 BASE</th><th width="25%" align="center" valign="middle">💻 STACK</th><th width="25%" align="center" valign="middle">🎯 OPERATOR MODE</th></tr>
-<tr><td width="25%" align="center" valign="middle">Joseph Falme</td><td width="25%" align="center" valign="middle">Remote · UTC+0</td><td width="25%" align="center" valign="middle">PowerShell · Python · Bash</td><td width="25%" align="center" valign="middle">Automate first, ask later</td></tr>
+<tr><td width="25%" align="center" valign="middle">Joseph Gitau</td><td width="25%" align="center" valign="middle">Nairobi, KE · UTC+3</td><td width="25%" align="center" valign="middle">PowerShell · Python · Bash</td><td width="25%" align="center" valign="middle">Automate first, ask later</td></tr>
 </table>
 
 <table align="center" width="100%" cellpadding="8" cellspacing="0">
@@ -277,13 +277,12 @@ Selected milestones. The full, boring, verifiable history is in the commit log.
 ┌────────────────────────────────────────────┐
 │ OPERATING RANGE                            │
 ├────────────────────────────────────────────┤
-│ 55.6761° N   12.5683° E     DENMARK        │
-│ 51.5072° N    0.1276° W     LONDON / UK    │
-│ 40.7128° N   74.0060° W     NEW YORK / US-E│
+│ -1.2864° S   36.8172° E     NAIROBI / KE   │
 │                                            │
-│ TIMEZONE    UTC+0                          │
-│ LANGUAGE    English, Danish                │
-│ MODE        Remote-first, EU preferred     │
+│ TIMEZONE    EAT · UTC+3                    │
+│ COUNTRY     Kenya                          │
+│ LANGUAGE    English, Kiswahili             │
+│ MODE        Remote-first                   │
 └────────────────────────────────────────────┘
 ```
 
