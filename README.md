@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED%2C50:DB2777%2C100:0891B2&height=220&text=Joseph+Gitau&fontSize=72&fontAlignY=38&fontColor=ffffff&desc=Systems+Engineer++%C2%B7++Automation+Architect&descSize=28&descAlignY=58&descAlign=50&descColor=E9D5FF&animation=fadeIn" alt="Joseph Gitau — Systems Engineer" width="870">
-</div>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=1200&color=22D3EE%2CF472B6%2CA78BFA%2CE879F9&center=true&vCenter=true&width=780&lines=Systems+Engineer%3BAutomation+Architect%3BCloud+%26+Platform+Engineering%3BTerminal+Enthusiast%3BI+break+things%2C+then+automate+the+fix&multiline=true&repeat=true" alt="Animated typing: role titles" width="780">
-</div>
+<h1 align="center">mfalme0</h1>
+<p align="center"><strong>Systems Engineer · Automation Architect · Cloud &amp; Platform Engineering</strong></p>
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=STATUS&message=AVAILABLE%20FOR%20WORK&color=22C55E&style=for-the-badge&logo=online&logoColor=white" alt="STATUS AVAILABLE FOR WORK" height="28">
 <img src="https://img.shields.io/static/v1?label=PROFILE&message=mfalme0&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="PROFILE mfalme0" height="28">
@@ -11,7 +7,7 @@
 <img src="https://img.shields.io/static/v1?label=LOCATION&message=NAIROBI%2C%20KENYA&color=DB2777&style=for-the-badge&logo=github&logoColor=white" alt="LOCATION NAIROBI, KENYA" height="28">
 </div>
 <div align="center">
-<strong>Systems Engineer · Automation Architect · <a href="https://github.com/mfalme0">github.com/mfalme0</a></strong>
+<strong><a href="https://github.com/mfalme0">github.com/mfalme0</a></strong>
 </div>
 <div align="center">
 <a href="https://github.com/mfalme0" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub" height="28"></a> <a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/REPOS-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="Browse repositories" height="28"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/badge/FOLLOWERS-DB2777?style=flat-square&logo=users&logoColor=white" alt="Followers" height="28"></a> <a href="https://github.com/mfalme0?tab=stars" target="_blank"><img src="https://img.shields.io/badge/STARRED-F59E0B?style=flat-square&logo=star&logoColor=white" alt="Starred" height="28"></a>
@@ -23,7 +19,7 @@
 
 ## 🧪 SUBJECT DOSSIER
 
-> **Joseph Gitau** — the operator behind the automation.
+> **@mfalme0** — the operator behind the automation.
 >
 > Most problems are the same problem wearing a different hat: a human doing
 > machine work, slowly, on purpose. I find those, remove them, and leave the
@@ -31,7 +27,7 @@
 
 <table align="center" width="100%" cellpadding="8" cellspacing="0">
 <tr><th width="25%" align="center" valign="middle">👤 IDENTITY</th><th width="25%" align="center" valign="middle">🏭 BASE</th><th width="25%" align="center" valign="middle">💻 STACK</th><th width="25%" align="center" valign="middle">🎯 OPERATOR MODE</th></tr>
-<tr><td width="25%" align="center" valign="middle">Joseph Gitau · @mfalme0</td><td width="25%" align="center" valign="middle">Nairobi, KE · UTC+3</td><td width="25%" align="center" valign="middle">Go · TypeScript · Python</td><td width="25%" align="center" valign="middle">Automate first, ask later</td></tr>
+<tr><td width="25%" align="center" valign="middle">@mfalme0 · Nairobi, KE</td><td width="25%" align="center" valign="middle">UTC+3 · EAT</td><td width="25%" align="center" valign="middle">Go · TypeScript · Python</td><td width="25%" align="center" valign="middle">Automate first, ask later</td></tr>
 </table>
 
 <table align="center" width="100%" cellpadding="8" cellspacing="0">
@@ -290,9 +286,9 @@ Contact and collaboration details live in the repository, not in a DM inbox.
 
 <hr>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0891B2%2C50:7C3AED%2C100:DB2777&height=170&text=Let%27s+build+something+reliable&fontSize=44&fontAlignY=38&fontColor=ffffff&desc=Open+to+systems+%26+platform+work&descSize=24&descAlignY=60&descAlign=50&descColor=CFFAFE&animation=fadeIn" alt="Let's build something reliable" width="820">
-</div>
+<table align="center" width="100%" cellpadding="12" cellspacing="0">
+<tr><td align="center" valign="middle"><strong>Let's build something reliable</strong><br>Open to systems &amp; platform work</td></tr>
+</table>
 
 <div align="center">
 <a href="https://github.com/mfalme0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" height="30"></a> <a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/REPOS-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="Repositories" height="30"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-DB2777?style=flat-square&logo=users&logoColor=white" alt="Followers" height="30"></a>
