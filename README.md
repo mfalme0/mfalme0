@@ -99,27 +99,10 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/mfalme0/cordjobboard"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=cordjobboard&theme=tokyonight&hide_border=true" alt="cordjobboard pin" width="400"></a> <a href="https://github.com/mfalme0/neo-learn"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=neo-learn&theme=tokyonight&hide_border=true" alt="neo-learn pin" width="400"></a>
+<a href="https://github.com/mfalme0/neo-learn"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=neo-learn&theme=tokyonight&hide_border=true" alt="neo-learn pin" width="400"></a> <a href="https://github.com/mfalme0/atlas"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=atlas&theme=tokyonight&hide_border=true" alt="atlas pin" width="400"></a>
 </div>
 <div align="center">
-<a href="https://github.com/mfalme0/atlas"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=atlas&theme=tokyonight&hide_border=true" alt="atlas pin" width="400"></a> <a href="https://github.com/mfalme0/open-zengee"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=open-zengee&theme=tokyonight&hide_border=true" alt="open-zengee pin" width="400"></a>
-</div>
-
-### 🎯 cordjobboard — most starred
-
-> **Self-hosted private job board.** Next.js, PostgreSQL, robots-aware ingestion worker, and Caddy. Built to own the pipeline end-to-end — ingest, normalize, and serve without leaking to crawlers.
-
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="34%" align="center" valign="middle">🧱 STACK</th><th width="33%" align="center" valign="middle">🔗 DELIVERY</th><th width="33%" align="center" valign="middle">🚨 SAFETY</th></tr>
-<tr><td width="34%" align="center" valign="middle">TypeScript · Next.js · PostgreSQL</td><td width="33%" align="center" valign="middle">Docker · Caddy · ingestion worker</td><td width="33%" align="center" valign="middle">robots-aware · private by default</td></tr>
-</table>
-
-<div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" height="28">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28">
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" height="28">
+<a href="https://github.com/mfalme0/open-zengee"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=open-zengee&theme=tokyonight&hide_border=true" alt="open-zengee pin" width="400"></a>
 </div>
 
 ### 🧭 neo-learn — newest · Go-heavy
@@ -222,7 +205,7 @@
 
 <table align="center" width="100%" cellpadding="8" cellspacing="0">
 <tr><th width="18%" align="center" valign="middle">LANGUAGE</th><th width="34%" align="center" valign="middle">REPOS</th><th width="48%" align="center" valign="middle">EVIDENCE</th></tr>
-<tr><td width="18%" align="center" valign="middle">TypeScript</td><td width="34%" align="center" valign="middle">cordjobboard · portfolioo2 · portfolioo · monies</td><td width="48%" align="center" valign="middle">Next.js, MDX, CSS — biggest footprint by bytes</td></tr>
+<tr><td width="18%" align="center" valign="middle">TypeScript</td><td width="34%" align="center" valign="middle">portfolioo2 · portfolioo · monies</td><td width="48%" align="center" valign="middle">MDX, HTML, CSS — biggest footprint by bytes</td></tr>
 <tr><td width="18%" align="center" valign="middle">Go</td><td width="34%" align="center" valign="middle">neo-learn · atlas</td><td width="48%" align="center" valign="middle">Largest Go repos — 322k + 318k</td></tr>
 <tr><td width="18%" align="center" valign="middle">Python</td><td width="34%" align="center" valign="middle">open-zengee · nexus · CS2RGB · fps</td><td width="48%" align="center" valign="middle">Automation & tooling</td></tr>
 <tr><td width="18%" align="center" valign="middle">JavaScript</td><td width="34%" align="center" valign="middle">Archiewebapp · ndai.com</td><td width="48%" align="center" valign="middle">Archival & booking webapps</td></tr>
@@ -240,7 +223,7 @@ Selected milestones. The full, verifiable history is at <a href="https://github.
 <tr><th width="16%" align="center" valign="middle">PERIOD</th><th width="24%" align="center" valign="middle">ROLE</th><th width="60%" align="center" valign="middle">WHAT HAPPENED</th></tr>
 <tr><td width="16%" align="center" valign="middle">2020 —</td><td width="24%" align="center" valign="middle">Joined GitHub</td><td width="60%" align="left" valign="middle">github.com/mfalme0 created · 23 public repos since</td></tr>
 <tr><td width="16%" align="center" valign="middle">2023 —</td><td width="24%" align="center" valign="middle">Systems Engineer</td><td width="60%" align="left" valign="middle">Took ownership of the platform: build, deploy, and the pager that follows</td></tr>
-<tr><td width="16%" align="center" valign="middle">2024 — 25</td><td width="24%" align="center" valign="middle">Automation Lead</td><td width="60%" align="left" valign="middle">Archival systems (archie, Archiewebapp) → private job board (cordjobboard)</td></tr>
+<tr><td width="16%" align="center" valign="middle">2024 — 25</td><td width="24%" align="center" valign="middle">Automation Lead</td><td width="60%" align="left" valign="middle">Archival systems (archie, Archiewebapp) → web platforms end to end</td></tr>
 <tr><td width="16%" align="center" valign="middle">2026</td><td width="24%" align="center" valign="middle">Systems &amp; Platform</td><td width="60%" align="left" valign="middle">neo-learn · atlas · open-zengee · nexus — Go + Python, offline-first & infra control</td></tr>
 </table>
 
