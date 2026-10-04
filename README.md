@@ -1,233 +1,199 @@
 <h1 align="center">mfalme0</h1>
-<p align="center"><strong>Systems Engineer · Automation Architect · Cloud &amp; Platform Engineering</strong></p>
+<p align="center"><strong>Systems Â· Platform Â· Automation</strong></p>
+<p align="center"><sub>Go, Python, TypeScript, and a suspicious number of C++ files. Nairobi, Kenya.</sub></p>
+
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=STATUS&message=AVAILABLE%20FOR%20WORK&color=22C55E&style=for-the-badge&logo=online&logoColor=white" alt="STATUS AVAILABLE FOR WORK" height="28">
-<img src="https://img.shields.io/static/v1?label=PROFILE&message=mfalme0&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="PROFILE mfalme0" height="28">
-<img src="https://img.shields.io/static/v1?label=REPOS&message=23%20PUBLIC&color=7C3AED&style=for-the-badge" alt="REPOS 23 PUBLIC" height="28">
-<img src="https://img.shields.io/static/v1?label=LOCATION&message=NAIROBI%2C%20KENYA&color=DB2777&style=for-the-badge&logo=github&logoColor=white" alt="LOCATION NAIROBI, KENYA" height="28">
+<img src="https://img.shields.io/static/v1?label=STATUS&message=OPEN%20TO%20WORK&color=22C55E&style=for-the-badge&logo=online&logoColor=white" alt="Status: open to work" height="28">
+<img src="https://img.shields.io/static/v1?label=MODE&message=REMOTE%20FIRST&color=7C3AED&style=for-the-badge" alt="Remote first" height="28">
+<img src="https://img.shields.io/static/v1?label=LOCATION&message=NAIROBI%20KE&color=DB2777&style=for-the-badge" alt="Nairobi, Kenya" height="28">
+<img src="https://img.shields.io/static/v1?label=TZ&message=UTC%2B3&color=F59E0B&style=for-the-badge" alt="UTC+3" height="28">
 </div>
+
 <div align="center">
-<strong><a href="https://github.com/mfalme0">github.com/mfalme0</a></strong>
-</div>
-<div align="center">
-<a href="https://github.com/mfalme0" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub" height="28"></a> <a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/REPOS-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="Browse repositories" height="28"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/badge/FOLLOWERS-DB2777?style=flat-square&logo=users&logoColor=white" alt="Followers" height="28"></a> <a href="https://github.com/mfalme0?tab=stars" target="_blank"><img src="https://img.shields.io/badge/STARRED-F59E0B?style=flat-square&logo=star&logoColor=white" alt="Starred" height="28"></a>
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mfalme0&label=Profile%20views&color=7C3AED" alt="Profile view count">
+<a href="https://github.com/mfalme0"><img src="https://img.shields.io/badge/GITHUB-mfalme0-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28"></a>
+<a href="https://mfalme.runs-on.dev"><img src="https://img.shields.io/badge/WEB-mfalme.runs--on.dev-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" height="28"></a>
+<a href="https://x.com/joemfalme001"><img src="https://img.shields.io/badge/X-@joemfalme001-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="28"></a>
+<a href="https://www.instagram.com/mfalme.01"><img src="https://img.shields.io/badge/INSTAGRAM-mfalme.01-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28"></a>
 </div>
 <hr>
 
-## 🧪 SUBJECT DOSSIER
+## ðŸŽ›ï¸ the terminal
 
-> **@mfalme0** — the operator behind the automation.
->
-> Most problems are the same problem wearing a different hat: a human doing
-> machine work, slowly, on purpose. I find those, remove them, and leave the
-> system measurably better than I found it.
+```text
+$ whoami
+mfalme0  Â·  Nairobi, KE  Â·  UTC+3
 
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="25%" align="center" valign="middle">👤 IDENTITY</th><th width="25%" align="center" valign="middle">🏭 BASE</th><th width="25%" align="center" valign="middle">💻 STACK</th><th width="25%" align="center" valign="middle">🎯 OPERATOR MODE</th></tr>
-<tr><td width="25%" align="center" valign="middle">@mfalme0 · Nairobi, KE</td><td width="25%" align="center" valign="middle">UTC+3 · EAT</td><td width="25%" align="center" valign="middle">Go · TypeScript · Python</td><td width="25%" align="center" valign="middle">Automate first, ask later</td></tr>
-</table>
+$ cat ~/operating-principles.md
+Most problems are the same problem wearing a different hat:
+a human doing machine work, slowly, on purpose.
+I find those, remove them, and leave the system
+measurably better than I found it.
 
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr>
-<td width="33.33%" valign="top">
-<div align="center"><h3>🔌</h3></div>
-<div align="center"><strong>Problem framing</strong></div>
-<div align="center">Start from the failure mode, not the tool. Every build begins with what breaks and who it blocks.</div>
-</td>
-<td width="33.33%" valign="top">
-<div align="center"><h3>🧩</h3></div>
-<div align="center"><strong>Systems thinking</strong></div>
-<div align="center">Components, boundaries, failure modes. Draw the whole system before touching any part of it.</div>
-</td>
-</tr>
-<tr>
-<td width="33.33%" valign="top">
-<div align="center"><h3>🔁</h3></div>
-<div align="center"><strong>Automation instinct</strong></div>
-<div align="center">If it runs twice by hand, it deserves to run itself. Idempotent, observable, boring.</div>
-</td>
-<td width="33.33%" valign="top">
-<div align="center"><h3>🛡️⃣</h3></div>
-<div align="center"><strong>Defensive by default</strong></div>
-<div align="center">Assume the network, the disk and the human will fail. Design for the failure, not the happy path.</div>
-</td>
-</tr>
-</table>
-<hr>
+$ ./ship.sh
+building atlas ............................... ok
+teaching nexus to show its work .............. ok
+removing a cron job from a human's life ...... ok
 
-## 📊 NUMBERS — live from github.com/mfalme0
-
-<div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="GitHub stats: commits, PRs, issues, stars" width="440"> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mfalme0&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" width="320">
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=mfalme0&theme=radical&hide_border=true" alt="Contribution streak" width="440"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfalme0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="320">
-</div>
-
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="25%" align="center" valign="middle">📈 COMMITS</th><th width="25%" align="center" valign="middle">📈 PULL REQUESTS</th><th width="25%" align="center" valign="middle">📈 ISSUES</th><th width="25%" align="center" valign="middle">⭐ STARS EARNED</th></tr>
-<tr><td width="25%" align="center" valign="middle">counted live above</td><td width="25%" align="center" valign="middle">opened & merged</td><td width="25%" align="center" valign="middle">triaged & closed</td><td width="25%" align="center" valign="middle">across 23 public repos</td></tr>
-</table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity snake animation" width="100%">
-</div>
+$ echo $?
+0
+```
 
 <details>
-<summary>▸ Raw telemetry (second theme)</summary>
-<div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats, radical theme" width="400"> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mfalme0&layout=donut&hide_border=true&theme=radical&langs_count=8" alt="Language donut" width="300">
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=mfalme0&theme=dark&hide_border=true" alt="Streak stats, dark theme" width="520">
-</div>
-</details>
-<hr>
+<summary>â–¸ <code>cat ~/stack.txt</code></summary>
 
-## 🛰️ FLAGSHIPS — pinned live from github.com/mfalme0
-
-<div align="center">
-<img src="https://img.shields.io/static/v1?label=&message=%E2%98%85%20LIVE%20FROM%20GITHUB&color=F59E0B&style=for-the-badge" alt="LIVE FROM GITHUB" width="200">
-</div>
-
-<div align="center">
-<a href="https://github.com/mfalme0/neo-learn"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=neo-learn&theme=tokyonight&hide_border=true" alt="neo-learn pin" width="400"></a> <a href="https://github.com/mfalme0/atlas"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=atlas&theme=tokyonight&hide_border=true" alt="atlas pin" width="400"></a>
-</div>
-<div align="center">
-<a href="https://github.com/mfalme0/open-zengee"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mfalme0&repo=open-zengee&theme=tokyonight&hide_border=true" alt="open-zengee pin" width="400"></a>
-</div>
-
-### 🧭 neo-learn — newest · Go-heavy
-
-> **Offline-capable learning platform where SMS and SIM Toolkit are transport layers, not the application.** Designed for environments where the network is the constraint — the lesson still gets through.
-
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="34%" align="center" valign="middle">🗂️ TRANSPORT</th><th width="33%" align="center" valign="middle">🧰 CORE</th><th width="33%" align="center" valign="middle">📡 RESILIENCE</th></tr>
-<tr><td width="34%" align="center" valign="middle">SMS · SIM Toolkit as transport</td><td width="33%" align="center" valign="middle">Go · TypeScript · Makefile</td><td width="33%" align="center" valign="middle">Offline-first · store & forward</td></tr>
-</table>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="28">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
-<img src="https://img.shields.io/badge/SMS-22C55E?style=flat-square&logo=sim&logoColor=white" alt="SMS" height="28">
-</div>
-
-### 📦 atlas — the control surface
-
-> **Go service with TypeScript surface.** Event-driven core, declarative reconcilers — describe the outcome, Atlas converges actual state and shows you the diff.
-
-<div align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="28">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28">
-</div>
-
-### 🔍 open-zengee · nexus — Python lab
-
-> Two Python builds iterating fast: **open-zengee** and **nexus** — automation and operations tooling, Make-driven, shipped to be touched at 03:00 without SSH archaeology.
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28">
-<img src="https://img.shields.io/badge/Makefile-000000?style=flat-square&logo=gnu&logoColor=white" alt="Makefile" height="28">
-</div>
-<hr>
-
-## 📁 THE LAB — every owned repo, newest first
-
-> Live from [`github.com/mfalme0?tab=repositories`](https://github.com/mfalme0?tab=repositories) — forks excluded, sorted by last push.
-
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th align="left" valign="middle">REPOSITORY</th><th align="center" valign="middle">LANG</th><th align="center" valign="middle">⭐</th><th align="left" valign="middle">WHAT IT IS</th></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/neo-learn"><strong>neo-learn</strong></a></td><td align="center" valign="middle">Go</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Offline learning via SMS / SIM Toolkit transport</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/portfolioo2"><strong>portfolioo2</strong></a></td><td align="center" valign="middle">TypeScript</td><td align="center" valign="middle">1</td><td align="left" valign="middle">Portfolio v2 — MDX + HTML heavy</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/takeaway-EAeye"><strong>takeaway-EAeye</strong></a></td><td align="center" valign="middle">C++</td><td align="center" valign="middle">1</td><td align="left" valign="middle">Ayoayo (Kalah) text board game in C++</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/open-zengee"><strong>open-zengee</strong></a></td><td align="center" valign="middle">Python</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Python tooling — Make-driven</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/nexus"><strong>nexus</strong></a></td><td align="center" valign="middle">Python</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Operations companion — Python + Mako</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/atlas"><strong>atlas</strong></a></td><td align="center" valign="middle">Go</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Intent-driven infra control surface</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/monies"><strong>monies</strong></a></td><td align="center" valign="middle">TypeScript</td><td align="center" valign="middle">0</td><td align="left" valign="middle">what ganji and mullah wishes they could be</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/portfolioo"><strong>portfolioo</strong></a></td><td align="center" valign="middle">TypeScript</td><td align="center" valign="middle">1</td><td align="left" valign="middle">Portfolio v1</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/CS2RGB"><strong>CS2RGB</strong></a></td><td align="center" valign="middle">Python</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Color space tooling</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/Archiewebapp"><strong>Archiewebapp</strong></a></td><td align="center" valign="middle">JavaScript</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Locally hosted archival webapp</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/ndai.com"><strong>ndai.com</strong></a></td><td align="center" valign="middle">JavaScript</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Car booking system for organizations</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/archie"><strong>archie</strong></a></td><td align="center" valign="middle">—</td><td align="center" valign="middle">0</td><td align="left" valign="middle">Hard-copy document archival software</td></tr>
-<tr><td align="left" valign="middle"><a href="https://github.com/mfalme0/fps"><strong>fps</strong></a></td><td align="center" valign="middle">Python</td><td align="center" valign="middle">0</td><td align="left" valign="middle">FPS monitor sample in Python</td></tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/static/v1?label=BROWSE&message=ALL%2023%20REPOSITORIES&color=7C3AED&style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a>
-</div>
-<hr>
-
-## 🛠️ LOADOUT — derived from github.com/mfalme0
-
-<div align="center">
-<strong>Every badge here maps to a language that actually ships in your repos. Nothing decorative.</strong>
-</div>
-
-### ⚙️ Most used (live top-langs card above confirms it)
-
-<div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="28">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" height="28">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="28">
-</div>
-
-### ☁️ Platform & Cloud
-
-<div align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28">
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" height="28">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="28">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" height="28">
-</div>
-
-### ⚡ Automation & Delivery
-
-<div align="center">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="28">
-<img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white" alt="Make" height="28">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="28">
-</div>
-
-<details>
-<summary>▸ Full inventory — language → repo mapping (live)</summary>
-
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="18%" align="center" valign="middle">LANGUAGE</th><th width="34%" align="center" valign="middle">REPOS</th><th width="48%" align="center" valign="middle">EVIDENCE</th></tr>
-<tr><td width="18%" align="center" valign="middle">TypeScript</td><td width="34%" align="center" valign="middle">portfolioo2 · portfolioo · monies</td><td width="48%" align="center" valign="middle">MDX, HTML, CSS — biggest footprint by bytes</td></tr>
-<tr><td width="18%" align="center" valign="middle">Go</td><td width="34%" align="center" valign="middle">neo-learn · atlas</td><td width="48%" align="center" valign="middle">Largest Go repos — 322k + 318k</td></tr>
-<tr><td width="18%" align="center" valign="middle">Python</td><td width="34%" align="center" valign="middle">open-zengee · nexus · CS2RGB · fps</td><td width="48%" align="center" valign="middle">Automation & tooling</td></tr>
-<tr><td width="18%" align="center" valign="middle">JavaScript</td><td width="34%" align="center" valign="middle">Archiewebapp · ndai.com</td><td width="48%" align="center" valign="middle">Archival & booking webapps</td></tr>
-<tr><td width="18%" align="center" valign="middle">C++</td><td width="34%" align="center" valign="middle">takeaway-EAeye</td><td width="48%" align="center" valign="middle">Ayoayo board game</td></tr>
-</table>
+```text
+systems      Go Â· TypeScript Â· Python Â· C++ Â· Bash
+platform     Docker Â· Linux Â· Nginx Â· Caddy Â· PostgreSQL
+delivery     GitHub Actions Â· Make Â· Git
+currently    eBPF Â· Rust Â· WebAssembly Â· OpenTelemetry
+```
 
 </details>
 <hr>
 
-## 📓 SERVICE RECORD
+## ðŸ§­ the actual job
 
-Selected milestones. The full, verifiable history is at <a href="https://github.com/mfalme0?tab=repositories">github.com/mfalme0</a>.
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+<strong>What I build</strong><br><br>
+Offline-first services that survive a bad network. Distributed state and reconciliation. Event-driven backends. Deployment pipelines and the monitoring that catches things before a human has to.
+</td>
+<td width="50%" valign="top">
+<strong>What it buys</strong><br><br>
+99.9% uptime delivered. ~20% Azure cost reduction. 45% fewer deployment errors after replacing manual releases. 15+ hours a week handed back from repetitive work.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<strong>How I start</strong><br><br>
+From the failure mode, not the tool. What breaks, who it blocks, and what it costs to leave it broken for another quarter.
+</td>
+<td valign="top">
+<strong>How I finish</strong><br><br>
+Idempotent, observable, boring. If it runs twice by hand, it deserves to run itself. Assume the network, the disk and the human will fail â€” design for that, not for the happy path.
+</td>
+</tr>
+</table>
+<hr>
 
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="16%" align="center" valign="middle">PERIOD</th><th width="24%" align="center" valign="middle">ROLE</th><th width="60%" align="center" valign="middle">WHAT HAPPENED</th></tr>
-<tr><td width="16%" align="center" valign="middle">2020 —</td><td width="24%" align="center" valign="middle">Joined GitHub</td><td width="60%" align="left" valign="middle">github.com/mfalme0 created · 23 public repos since</td></tr>
-<tr><td width="16%" align="center" valign="middle">2023 —</td><td width="24%" align="center" valign="middle">Systems Engineer</td><td width="60%" align="left" valign="middle">Took ownership of the platform: build, deploy, and the pager that follows</td></tr>
-<tr><td width="16%" align="center" valign="middle">2024 — 25</td><td width="24%" align="center" valign="middle">Automation Lead</td><td width="60%" align="left" valign="middle">Archival systems (archie, Archiewebapp) → web platforms end to end</td></tr>
-<tr><td width="16%" align="center" valign="middle">2026</td><td width="24%" align="center" valign="middle">Systems &amp; Platform</td><td width="60%" align="left" valign="middle">neo-learn · atlas · open-zengee · nexus — Go + Python, offline-first & infra control</td></tr>
+## ðŸš€ flagships
+
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td width="33%" valign="top" align="center">
+<strong>ðŸ” nexus</strong><br><br>
+An evidence-driven AI SRE agent for homelabs. Typed, permission-gated tools, shows its work, and refuses to take risky actions without human approval.<br><br>
+<sub>Python Â· verified against live PostgreSQL &amp; Redis</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<strong>ðŸ“¦ atlas</strong><br><br>
+Infrastructure modelled as a graph. Schedules workloads, replicates state through a from-scratch Raft layer, injects controlled faults, correlates them into incidents, and emits advisory analysis.<br><br>
+<sub>Go Â· in-memory event bus, single machine, live visualisation</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<strong>ðŸ—‚ï¸ neo-learn</strong><br><br>
+An offline-capable learning platform where SMS and the SIM Toolkit are <em>transport layers</em>, not the application. Designed for when the network is the constraint â€” the lesson still gets through.<br><br>
+<sub>Go Â· offline-first Â· store &amp; forward</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/mfalme0/nexus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfalme0&repo=nexus&theme=tokyonight&hide_border=true" alt="nexus" width="400"></a>
+<a href="https://github.com/mfalme0/atlas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfalme0&repo=atlas&theme=tokyonight&hide_border=true" alt="atlas" width="400"></a>
+<br>
+<a href="https://github.com/mfalme0/neo-learn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfalme0&repo=neo-learn&theme=tokyonight&hide_border=true" alt="neo-learn" width="400"></a>
+<a href="https://github.com/mfalme0/open-zengee"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mfalme0&repo=open-zengee&theme=tokyonight&hide_border=true" alt="open-zengee" width="400"></a>
+</div>
+<hr>
+
+## ðŸ§ª the lab bench
+
+Everything else in the account, including the parts that did not become a framework.
+
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+<strong>ðŸŽ² takeaway-EAeye</strong> â€” Ayoayo (Kalah), the East African board game, as a text-mode C++ engine. Best-named repo I own and I will not pretend it is infrastructure.<br><br>
+<strong>ðŸ“º fps</strong> â€” A Python FPS monitor. Currently 0 bytes. The repo where it used to be, kept for the memories.
+</td>
+<td width="50%" valign="top">
+<strong>ðŸŽ¨ CS2RGB</strong> â€” Colour-space tooling, 4 KB, does exactly one thing.<br><br>
+<strong>ðŸ’¸ monies</strong> â€” <em>"what ganji and mullah wishes theyc ould be"</em>. The typo is in the repo description. It stays.<br><br>
+<strong>ðŸ“„ archie â†’ Archiewebapp</strong> â€” Archiving paper documents, then the web app that replaced the paper. <code>archie</code> is the empty jar; <code>Archiewebapp</code> is what's in it.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<strong>ðŸš— ndai.com</strong> â€” A car booking system for organisations. 1.7 MB of JavaScript and a prayer.<br><br>
+<strong>ðŸ–¥ï¸ portfolioo / portfolioo2</strong> â€” Portfolio v1 and v2. v2 is 68 MB, almost entirely assets. I know. I've looked.
+</td>
+<td valign="top">
+<strong>ðŸ”§ the hardware bench</strong><br>
+Eight forks that are all the same interest: <code>RyzenAdj</code>, <code>g-helper</code>, <code>HaloBattery</code>, <code>Universal-x86-Tuning-Utility</code>, <code>keyboard</code>, <code>elitebook</code>.<br><br>
+Voltage curves, charge limits, keyboard firmware. The layer below the layer I get paid to work on.
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/mfalme0?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL%2022%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a>
+</div>
+<hr>
+
+## ðŸ“ˆ the numbers
+
+Live from the API, not typed in by hand.
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="430">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfalme0&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" width="330">
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=mfalme0&theme=tokyonight&hide_border=true" alt="Contribution streak" width="430">
+<img src="https://komarev.com/ghpvc/?username=mfalme0&label=Profile%20views&color=7C3AED" alt="Profile view count" width="330">
+</div>
+
+<details>
+<summary>â–¸ the confession</summary>
+
+Four stars, total, across every repository I own. The commits are the interesting part, and the graph above says so better than this paragraph does.
+
+`archie` and `fps` are empty repositories. `portfolioo2` is 68 MB. I'd fix all three if someone made me.
+
+</details>
+
+<details>
+<summary>â–¸ more telemetry</summary>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mfalme0&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" alt="GitHub stats, radical theme" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfalme0&layout=donut&hide_border=true&theme=radical&langs_count=8" alt="Language donut" width="300">
+</div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution grid snake" width="100%">
+</div>
+
+</details>
+<hr>
+
+## ðŸ““ service record
+
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr><th width="16%" align="center">PERIOD</th><th width="26%" align="center">ROLE</th><th width="58%" align="left">WHAT ACTUALLY HAPPENED</th></tr>
+<tr><td align="center">2020 â€”</td><td align="center">First commit</td><td align="left">Account created December 2020. 22 public repositories later.</td></tr>
+<tr><td align="center">2023 â€”</td><td align="center">Systems Engineer</td><td align="left">Took ownership of the platform: build, deploy, and the pager that follows.</td></tr>
+<tr><td align="center">2024 â€” 25</td><td align="center">Automation Lead</td><td align="left">Archival systems (<code>archie</code> â†’ <code>Archiewebapp</code>) and booking platforms, end to end.</td></tr>
+<tr><td align="center">2026</td><td align="center">Systems &amp; Platform</td><td align="left"><code>atlas</code> Â· <code>nexus</code> Â· <code>neo-learn</code> â€” distributed systems, SRE agents, offline-first delivery.</td></tr>
 </table>
 
 <details>
-<summary>▸ Principles I actually operate by</summary>
+<summary>â–¸ five rules I actually run on</summary>
 
 1. **Automate the second occurrence.** The first time is research; the second time is a bug report.
-2. **Make failure loud and boring.** Alert early, page rarely, and never let a silent failure live.
+2. **Make failure loud and boring.** Alert early, page rarely, never let a silent failure live.
 3. **Prefer the reversible.** A flag beats a rollback. A rollback beats a migration you cannot undo.
 4. **Delete before you optimise.** The fastest code is the code you removed.
 5. **Document the why, not the what.** The commit already says what changed.
@@ -235,7 +201,7 @@ Selected milestones. The full, verifiable history is at <a href="https://github.
 </details>
 
 <details>
-<summary>▸ Currently learning</summary>
+<summary>â–¸ currently learning</summary>
 
 <div align="center">
 <img src="https://img.shields.io/badge/eBPF-111111?style=flat-square&logo=linux&logoColor=white" alt="eBPF" height="28">
@@ -247,51 +213,15 @@ Selected milestones. The full, verifiable history is at <a href="https://github.
 </details>
 <hr>
 
-## 🗺️ COORDINATES
-
-```text
-┌────────────────────────────────────────────┐
-│ OPERATING RANGE                            │
-├────────────────────────────────────────────┤
-│ -1.2864° S   36.8172° E     NAIROBI / KE   │
-│                                            │
-│ TIMEZONE    EAT · UTC+3                    │
-│ GITHUB      github.com/mfalme0 · 23 repos  │
-│ FOLLOWERS   17 · FOLLOWING 23              │
-│ MODE        Remote-first                   │
-└────────────────────────────────────────────┘
-```
-
-Contact and collaboration details live in the repository, not in a DM inbox.
-
-<hr>
-
-## 📁 TELEMETRY
-
-<table align="center" width="100%" cellpadding="8" cellspacing="0">
-<tr><th width="31%" align="center" valign="middle">📄 REPOSITORIES</th><th width="22%" align="center" valign="middle">⭐ STARS</th><th width="25%" align="center" valign="middle">📋 ISSUES</th><th width="22%" align="center" valign="middle">🗂️ LAST PUSH</th></tr>
-<tr><td width="31%" align="center" valign="middle"><a href="https://github.com/mfalme0?tab=repositories">23 public</a></td><td width="22%" align="center" valign="middle">across all repos</td><td width="25%" align="center" valign="middle">opened and closed</td><td width="22%" align="center" valign="middle">always recent</td></tr>
+<div align="center">
+<table width="100%" cellpadding="12" cellspacing="0">
+<tr><td align="center"><strong>Built, deployed, and broken in production â€” then fixed properly.</strong><br><sub>Open to systems, platform, SRE and automation work â€” full-time or fractional.</sub></td></tr>
 </table>
-
-<div align="center">
-<a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/static/v1?label=BROWSE&message=ALL%20REPOSITORIES&color=7C3AED&style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/static/v1?label=NETWORK&message=FOLLOWERS&color=DB2777&style=for-the-badge&logo=people-fill&logoColor=white" alt="See followers"></a> <a href="https://github.com/mfalme0?tab=stars" target="_blank"><img src="https://img.shields.io/static/v1?label=SAVED&message=STARRED%20REPOS&color=F59E0B&style=for-the-badge&logo=star&logoColor=white" alt="See starred repos"></a>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mfalme0&label=Profile%20views&color=22C55E" alt="Profile view count" width="340">
+<a href="https://github.com/mfalme0"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="30"></a>
+<a href="https://mfalme.runs-on.dev"><img src="https://img.shields.io/badge/WEBSITE-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" height="30"></a>
+<a href="https://www.linkedin.com/in/joseph-g-471678208/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+<a href="https://www.instagram.com/mfalme.01"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30"></a>
 </div>
-
-> 🙏 **Thanks for stopping by.** If something here was useful, a star costs
-> nothing and tells me what to build next. Every stat and pin on this page reads live from <a href="https://github.com/mfalme0">github.com/mfalme0</a>.
-
-<hr>
-
-<table align="center" width="100%" cellpadding="12" cellspacing="0">
-<tr><td align="center" valign="middle"><strong>Let's build something reliable</strong><br>Open to systems &amp; platform work</td></tr>
-</table>
-
-<div align="center">
-<a href="https://github.com/mfalme0" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" height="30"></a> <a href="https://github.com/mfalme0?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/REPOS-7C3AED?style=flat-square&logo=readme&logoColor=white" alt="Repositories" height="30"></a> <a href="https://github.com/mfalme0?tab=followers" target="_blank"><img src="https://img.shields.io/badge/FOLLOW-DB2777?style=flat-square&logo=users&logoColor=white" alt="Followers" height="30"></a>
-</div>
-
-`Built, deployed, and broken in production — then fixed properly.`
