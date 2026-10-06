@@ -202,6 +202,111 @@ learning     ebpf · rust · webassembly · opentelemetry
 </div>
 
 </details>
+
+## tech stack
+```text
+● ● ●   cat -n ~/tech_stack.md
+```
+
+<details>
+<summary>▸ <strong>languages</strong></summary>
+
+```text
+Python          Go              Java            C#
+TypeScript      JavaScript      PHP             Dart
+SQL             Bash            HTML5           CSS3
+```
+</details>
+
+<details>
+<summary>▸ <strong>frameworks & libraries</strong></summary>
+
+```text
+.NET                    ASP.NET Core           Entity Framework Core
+Spring Boot             FastAPI                Node.js
+Express.js              NestJS                 React
+Next.js                 Angular                Flutter
+LangGraph
+```
+</details>
+
+<details>
+<summary>▸ <strong>databases & data</strong></summary>
+
+```text
+PostgreSQL          MySQL               MongoDB
+Redis               SQL                 Microsoft SQL Server
+Power BI
+```
+</details>
+
+<details>
+<summary>▸ <strong>cloud / devops</strong></summary>
+
+```text
+Microsoft Azure       Docker              Kubernetes
+GitHub Actions        CI/CD               Linux
+Git                   GitHub              TrueNAS
+```
+</details>
+
+<details>
+<summary>▸ <strong>ai / machine learning</strong></summary>
+
+```text
+LLMs                  AI Agents           Agentic AI
+RAG                   LangGraph           Ollama
+OpenRouter            OpenAI APIs         NVIDIA AI APIs
+Prompt Engineering    AI Automation       Model Evaluation
+```
+</details>
+
+<details>
+<summary>▸ <strong>infrastructure & networking</strong></summary>
+
+```text
+TCP/IP                DNS                 DHCP
+VPN                   Tailscale           NetBird
+VLANs                 Routing             Network Administration
+Server Administration Systems Administration Infrastructure Automation
+Network Security
+```
+</details>
+
+<details>
+<summary>▸ <strong>enterprise / business systems</strong></summary>
+
+```text
+Microsoft Dynamics 365 Business Central   Power Automate
+Power BI                                    Odoo
+ERP Integration                             REST API Integration
+Workflow Automation
+```
+</details>
+
+<details>
+<summary>▸ <strong>security & reliability</strong></summary>
+
+```text
+Cybersecurity           Authentication        Authorization
+Access Control          Security Assessment   Infrastructure Security
+Incident Response       Distributed Systems   High Availability
+Disaster Recovery       Monitoring            Failure Injection / Chaos Testing
+```
+</details>
+
+<details>
+<summary>▸ <strong>other technical skills</strong></summary>
+
+```text
+System Architecture     Software Architecture Distributed Systems
+API Design              Microservices         Real-time Systems
+WebSockets              Hardware Integration  Embedded Systems
+Robotics                RGB/LED Hardware Integration
+PC Hardware             Homelab Engineering
+```
+</details>
+
 <hr>
 
 ## questions a recruiter actually asks
